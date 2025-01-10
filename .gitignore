@@ -1,0 +1,11 @@
+/.quarto/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files and logs
+*.log
+*.tmp
+*.swp

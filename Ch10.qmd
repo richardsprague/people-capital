@@ -1,0 +1,6 @@
+---
+title: "Building the Future: A Human-Centric Vision for AI"
+---
+
+Policy and business recommendations for keeping humans central to AI development
+

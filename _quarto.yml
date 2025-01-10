@@ -1,0 +1,46 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "The Human Element"
+  subtitle: "Why AI Will Enhance, Not Replace"
+  author: "Sami Karam and Richard Sprague"
+  date: "1/10/2025"
+  search: true
+  page-footer: "Copyright 2025 People+Capital, LLC"
+  site-url: https://opticareai.github.io/eyes-on-health/
+  downloads: [pdf, epub]
+  cover-image: _resources/book/HumanElementCover.jpg
+  
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - Ch01.qmd
+    - Ch02.qmd
+    - Ch03.qmd
+    - Ch04.qmd
+    - Ch05.qmd
+    - Ch06.qmd
+    - Ch07.qmd
+    - Ch08.qmd
+    - Ch09.qmd
+    - Ch10.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: _resources/AI.bib
+
+format:
+  html:
+    theme: cosmo
+    css: _resources/css/normalize.css
+    standalone: true
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+  pdf:
+    documentclass: scrreprt
+
+
+
