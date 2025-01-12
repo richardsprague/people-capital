@@ -10,7 +10,7 @@ book:
   search: true
   page-footer: "Copyright 2025 People+Capital, LLC"
   site-url: https://opticareai.github.io/eyes-on-health/
-  downloads: [pdf, epub]
+  downloads: [pdf, epub, docx]
   cover-image: _resources/book/HumanElementCover.jpg
   
   chapters:
@@ -41,6 +41,7 @@ format:
     link-external-newwindow: true
   pdf:
     documentclass: scrreprt
-
+  docx:
+    reference-doc: _resources/book/reference.docx
 
 

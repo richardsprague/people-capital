@@ -85,16 +85,19 @@ This shift has important implications for investors:
 This transition suggests several changes in how organizations will operate:
 
 **New Organizational Structures**
+
 - Flatter hierarchies as AI handles routine coordination
 - Smaller, more senior teams focused on "what" decisions
 - Greater emphasis on judgment and strategic thinking
 
 **Changed Skill Requirements**
+
 - Less focus on technical tool proficiency
 - More emphasis on strategic thinking and judgment
 - Greater value placed on cross-domain knowledge
 
 **Modified Training Approaches**
+
 - Reduced time spent teaching technical "how" skills
 - Increased focus on judgment development
 - More emphasis on understanding human factors
@@ -104,12 +107,14 @@ This transition suggests several changes in how organizations will operate:
 For individuals and organizations looking to succeed in this new environment, several approaches make sense:
 
 **For Individuals**:
+
 - Focus on developing judgment through varied experiences
 - Build broad knowledge across multiple domains
 - Practice making and learning from strategic decisions
 - Get comfortable with ambiguity and uncertainty
 
 **For Organizations**:
+
 - Invest in tools that augment human judgment
 - Develop processes that capture and share strategic insights
 - Create cultures that value and develop good judgment
