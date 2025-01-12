@@ -44,4 +44,7 @@ format:
   docx:
     reference-doc: _resources/book/reference.docx
 
+  epub:
+    cover-image: _resources/book/HumanElementCover.jpg
+
 
