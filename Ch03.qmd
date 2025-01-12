@@ -2,3 +2,113 @@
 title: "The Human Edge: What We Do That AI Can't"
 ---
 
+
+In the early days of the personal computer revolution, spreadsheet software transformed financial analysis. Critics warned that tools like VisiCalc and Lotus 1-2-3 would eliminate financial analysts by automating their calculations. Instead, these tools dramatically increased productivity while shifting analysts' focus from mathematical computation to business insight. Today's artificial intelligence is driving a similar transformation, but at a far greater scale and across virtually every knowledge-based profession.
+
+## The Fundamental Divide
+
+The key to understanding AI's impact on knowledge work lies in distinguishing between two fundamental aspects of any task: determining *what* needs to be done versus figuring out *how* to do it. This distinction, though simple, has profound implications for the future of work, business strategy, and investment.
+
+Consider a typical business task like creating a market analysis presentation. The "what" involves determining which market segments to analyze, which metrics matter most, and what strategic implications to draw from the data. The "how" involves gathering the data, creating charts, writing clear explanations, and formatting the presentation. Traditionally, both aspects required significant human effort. AI is rapidly changing this equation.
+
+Large language models and other AI tools have become remarkably adept at the "how" - they can write coherent prose, generate professional visualizations, and format documents with impressive skill. What they cannot do is determine *what* analysis would be most valuable for a specific business situation. They cannot identify which insights would resonate with a particular audience or anticipate how findings might influence strategic decisions.
+
+[Data visualization suggestion: A 2x2 matrix showing tasks plotted on "What vs How" and "AI Capable vs Human Required" axes, with example tasks positioned in each quadrant]
+
+## The Rise of "What" Skills
+
+This fundamental divide is reshaping the value proposition of knowledge workers. Previously, career success often depended heavily on mastering "how" skills - becoming proficient with specific tools, frameworks, and methodologies. While these skills remain relevant, their relative importance is declining as AI becomes increasingly capable of handling implementation details.
+
+Consider three examples from different professions:
+
+1. **Investment Analysis**: Traditional financial analysts spent countless hours gathering data, building spreadsheet models, and formatting reports. Today's AI tools can handle much of this mechanical work. The key differentiator becomes the analyst's ability to determine *what* to analyze - which metrics matter most for a particular investment thesis, which comparisons will be most illuminating, and what strategic implications to draw from the data.
+
+2. **Software Development**: As AI code generation tools become more sophisticated, the competitive advantage shifts from knowing *how* to write efficient code to knowing *what* to build. The critical skills become understanding user needs, identifying valuable features, and architecting systems that solve real business problems.
+
+3. **Marketing**: AI can now generate endless variations of ad copy, social media posts, and email campaigns. The key human contribution shifts from crafting individual messages to determining *what* message strategy will resonate with target audiences and align with business objectives.
+
+## The Persistence of Human Judgment
+
+This shift toward "what" skills explains why AI enhances rather than replaces human knowledge workers. Determining *what* to do requires capabilities that remain uniquely human:
+
+- **Contextual Understanding**: Humans can interpret information within broader social, economic, and strategic contexts that AI systems struggle to grasp.
+- **Stakeholder Empathy**: We can anticipate how different audiences will respond emotionally and intellectually to various approaches.
+- **Strategic Synthesis**: Humans excel at combining insights from disparate domains to identify novel opportunities and approaches.
+- **Ethical Judgment**: We can weigh complex moral considerations and social implications that AI systems cannot meaningfully evaluate.
+
+[Data visualization suggestion: A timeline showing the evolution of key professional skills from 1980-2030, with "how" skills declining in relative importance as AI capabilities increase]
+
+## Implications for Organizations
+
+This what-how divide has profound implications for how organizations should approach AI implementation:
+
+### Skill Development
+Organizations need to shift training and development programs to emphasize "what" skills:
+- Strategic thinking and problem framing
+- Stakeholder needs analysis
+- Cross-domain synthesis
+- Ethical decision-making
+- AI prompt engineering and oversight
+
+### Workflow Design
+Business processes should be redesigned to leverage the what-how divide:
+- Separate strategic decisions from implementation details
+- Create clear handoffs between human judgment and AI execution
+- Build feedback loops to validate and improve AI outputs
+- Maintain human oversight of critical decisions
+
+### Team Structure
+Traditional hierarchies based on technical expertise may need to evolve:
+- Fewer pure technical specialists
+- More roles combining domain expertise with AI literacy
+- New positions focused on AI-human collaboration
+- Greater emphasis on cross-functional knowledge
+
+## Investment Implications
+
+The what-how divide offers a useful framework for evaluating AI-related investments:
+
+### Winners
+- Companies that help humans become better at "what" decisions
+- Tools that seamlessly integrate human judgment with AI execution
+- Platforms that facilitate human-AI collaboration
+- Solutions that augment rather than replace human expertise
+
+### Losers
+- Companies focused solely on automating "how" tasks
+- Tools that attempt to eliminate human judgment
+- Solutions that create black boxes resistant to human oversight
+- Platforms that fail to leverage unique human capabilities
+
+## Looking Ahead
+
+As AI capabilities continue to advance, the what-how divide will likely deepen. More "how" tasks will become automated, increasing the premium on human judgment and strategic thinking. This shift has several important implications:
+
+### Education
+Traditional education systems heavily emphasize "how" skills - teaching specific methodologies, tools, and techniques. These systems will need to evolve to place greater emphasis on developing students' abilities to:
+- Frame problems effectively
+- Synthesize insights across domains
+- Make ethical judgments
+- Collaborate with AI systems
+
+### Career Development
+Individual knowledge workers will need to consciously shift their skill development toward "what" capabilities:
+- Deeper domain expertise
+- Broader cross-functional knowledge
+- Stronger strategic thinking
+- Better stakeholder understanding
+
+### Business Strategy
+Organizations will need to rethink their competitive advantages:
+- Less emphasis on operational excellence
+- Greater focus on strategic insight
+- Increased value of human judgment
+- New models of human-AI collaboration
+
+## Conclusion
+
+The what-how divide offers a powerful framework for understanding AI's impact on knowledge work. Rather than replacing human workers, AI is driving a shift in the nature of human contribution - from implementing solutions to determining what solutions are needed. Organizations and individuals that understand and adapt to this shift will be best positioned to thrive in an AI-enhanced future.
+
+This transformation echoes previous technological revolutions, but with greater scope and speed. Just as spreadsheet software changed financial analysis without eliminating analysts, AI will transform knowledge work without eliminating knowledge workers. The key is understanding where human judgment truly adds value and designing systems that enhance rather than replace that judgment.
+
+The future belongs not to those who master the "how" - AI will increasingly handle that - but to those who excel at determining "what" needs to be done. This shift represents both a challenge and an opportunity for organizations and individuals ready to adapt to a new paradigm of human-AI collaboration.

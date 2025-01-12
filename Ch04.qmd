@@ -1,4 +1,45 @@
 ---
-title: "Finding the Sweet Spot: Where AI and Humans Work Best Together"
+title: "Beyond Computation: The Philosophy of Human Intelligence"
+subtitle: "What Heidegger and other thinkers reveal about the fundamental differences between human and artificial intelligence"
 ---
+
+Previous chapters examined AI's capabilities and limitations from technical and business perspectives. But to truly understand why human intelligence remains irreplaceable, we need to dig deeper into what makes human thinking unique. This takes us into philosophical territory that might seem abstract at first but has profound practical implications for business leaders and investors trying to navigate the AI revolution.
+
+While American and British philosophers have focused primarily on logic and language – which certainly matter for AI development – Continental philosophers, particularly Martin Heidegger, tackled more fundamental questions about what it means to think and exist. Their insights help explain why even our most advanced AI systems, despite impressive capabilities, still miss essential aspects of human intelligence.
+
+The fundamental issue is that we've inherited a flawed model of human intelligence from Descartes and other early modern philosophers. They viewed humans as essentially thinking machines – hence "I think, therefore I am." This same assumption underlies most AI development: if we can replicate human-like information processing, we'll achieve human-like intelligence. But this gets things exactly backwards.
+
+We're not primarily thinking machines that sometimes act in the world. Instead, we're fundamentally beings-in-the-world (Heidegger's hyphenated term emphasizes this unity) who sometimes step back to think abstractly. This distinction has enormous implications for how we should think about AI and its limitations.
+
+Consider a skilled trader on a busy trading floor. When they're "in the zone," they're not consciously thinking through each decision. They're responding to market movements, news flows, and subtle signals from colleagues with an intuitive grasp that comes from years of embodied experience. Heidegger would say they're exhibiting "ready-to-hand" engagement with their environment, not detached analytical thinking.
+
+This is fundamentally different from how AI trading systems work. The AI processes data and applies algorithms, but it lacks what Heidegger calls "comportment" – that basic way of being oriented toward and engaged with the world that comes before any explicit thinking. This explains why pure algorithmic trading works well for certain types of high-frequency operations, but the most successful hedge funds still rely heavily on human judgment for their major positions. The humans aren't necessarily "smarter" than the algorithms – they just engage with the market in a fundamentally different way.
+
+This connects to another key Heideggerian insight: we're temporal beings who inherently understand past, present, and future as a unified whole. When a skilled investor or business leader makes decisions, they're not just processing current data – they're drawing on their lived experience of the past and projecting possibilities into the future. AI systems, in contrast, can only process historical data and make statistical projections. They lack what Heidegger calls "temporality" – that basic human way of existing across time that makes genuine understanding possible.
+
+This explains why many business leaders discover that their best human decision-makers aren't just processing more data – they're bringing something qualitatively different to the table. Humans don't primarily understand things by building up from basic facts to complex conclusions. Instead, we always already have what Heidegger calls a "pre-understanding" – a practical grasp of how things work that comes from being embedded in a shared world of meaning.
+
+Think about how a seasoned executive "reads the room" in a crucial negotiation. They're not just processing verbal statements and body language signals. They're drawing on a lifetime of cultural and social understanding that no AI system can replicate because AIs lack what Heidegger calls "being-with" – that fundamental way humans share a meaningful world with others.
+
+This explains something often observed in investment teams: Junior analysts may have impressive technical skills and can process more data than their senior colleagues. But the best senior investors have something that can't be reduced to information processing – a kind of practical wisdom that comes from years of being immersed in markets and business.
+
+These philosophical insights have practical implications for how businesses should implement AI. Consider three different business activities:
+
+1. Processing insurance claims
+2. Negotiating a major acquisition 
+3. Developing a new product strategy
+
+The first task is mainly about following procedures and processing information – perfect for AI enhancement. The second requires deep cultural understanding and reading subtle human dynamics – AI can assist but human judgment remains essential. The third requires what Heidegger calls "projection" – understanding current possibilities in light of future potential. AI can provide data and analysis, but only humans can truly innovate because only humans exist temporally.
+
+This pattern appears consistently in markets. Companies that try to completely automate complex human judgments often disappoint, while those that use AI to enhance human capabilities tend to succeed. It's not about replacing human intelligence but augmenting it in ways that respect its unique character.
+
+This suggests the current focus on making AI more "human-like" may be misguided. Instead of trying to replicate human intelligence, which is fundamentally embedded in being-in-the-world, we should focus on developing AI systems that complement human capabilities. Think about how a hammer extends human capabilities without trying to replicate the human arm. Similarly, AI should extend human intelligence without trying to replicate human understanding.
+
+For investors, this means companies that understand these distinctions – between what AI can enhance and what remains irreducibly human – are more likely to successfully implement AI than those pursuing full automation of human judgment. It also suggests we need to rethink how we evaluate AI progress. Instead of asking whether AI can pass increasingly sophisticated Turing tests, we should ask how effectively it enhances distinctively human capabilities.
+
+The goal shouldn't be artificial general intelligence that replicates human thinking. Instead, we should aim for artificial specific intelligence that amplifies human judgment while respecting its unique character. This philosophical perspective helps explain why the most successful AI implementations are those that enhance rather than replace human judgment. They succeed not despite keeping humans in the loop, but because they maintain that crucial human element.
+
+This brings us back to our core enhancement thesis. By understanding the fundamental differences between human and artificial intelligence, we can better appreciate why enhancement rather than replacement is the right goal. The future belongs not to pure AI systems, but to human-AI partnerships that respect and amplify what makes human intelligence unique – our being-in-the-world, our temporality, and our fundamental way of sharing meaning with others.
+
+These insights have profound implications for how businesses should approach AI implementation, which we'll explore in the following chapters. But the key takeaway is this: successful AI strategy requires understanding not just what computers can do, but what makes human intelligence irreplaceably unique.
 
