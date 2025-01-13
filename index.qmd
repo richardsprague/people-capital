@@ -2,4 +2,6 @@
 
 This is an initial placeholder for a 75,000 word book.
 
-Current word count = 14415
+Current word count = 16197
+
+
