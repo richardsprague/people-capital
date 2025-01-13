@@ -1,6 +1,6 @@
 ---
-title: "The Human Element in Creative Work: Lessons from Beethoven's Tenth"
-subtitle: "Why 'seeing the human doing it' remains crucial across industries"
+title: "The Human Element in Creative Work"
+subtitle: "Lessons from Beethoven's Tenth: Why 'seeing the human doing it' remains crucial across industries"
 ---
 
 In 2021, a fascinating experiment took place at the intersection of artificial intelligence and classical music. An all-star team of musicologists, historians, and AI programmers attempted something unprecedented: completing Beethoven's unfinished Tenth Symphony using artificial intelligence. The project offers profound insights into both the capabilities and limitations of AI in creative work, while illuminating why human authenticity remains irreplaceable even as AI capabilities advance.

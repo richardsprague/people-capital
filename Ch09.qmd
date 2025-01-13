@@ -1,6 +1,6 @@
 ---
-title: "Following the Money: Investment Implications of the Enhancement Thesis"
-subtitle: "Identifying winners and losers in an AI-enhanced economy"
+title: "Following the Money"
+subtitle: "Investment Implications of the Enhancement Thesis: Identifying winners and losers in an AI-enhanced economy"
 ---
 
 [Chart 1: Total returns of SOXX vs S&P 500, 2020-2025, showing semiconductor outperformance]

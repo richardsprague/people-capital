@@ -27,6 +27,7 @@ book:
     - Ch09.qmd
     - Ch10.qmd
     - summary.qmd
+    - about.qmd
     - references.qmd
 
 bibliography: _resources/AI.bib
@@ -40,7 +41,12 @@ format:
     toc: true
     link-external-newwindow: true
   pdf:
-    documentclass: scrreprt
+    papersize: "Letter"
+    mainfont: "Georgia"
+    toc: true
+    documentclass: scrbook
+    geometry: paperwidth=6in,paperheight=9in
+    standalone: true
   docx:
     reference-doc: _resources/book/reference.docx
 

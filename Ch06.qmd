@@ -1,5 +1,5 @@
 ---
-title: "Finding the Sweet Spot: Where AI and Humans Work Best Together"
+title: "Finding the Sweet Spot"
 subtitle: "Frameworks for identifying optimal human-AI collaboration opportunities"
 ---
 
