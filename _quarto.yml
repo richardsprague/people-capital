@@ -30,6 +30,7 @@ book:
     - references.qmd
 
 bibliography: _resources/AI.bib
+nocite: '@*'
 
 format:
   html:
@@ -37,7 +38,6 @@ format:
     css: _resources/css/normalize.css
     standalone: true
     toc: true
-    link-external-icon: true
     link-external-newwindow: true
   pdf:
     documentclass: scrreprt
