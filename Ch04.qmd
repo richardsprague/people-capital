@@ -3,6 +3,9 @@ title: "Beyond Computation: The Philosophy of Human Intelligence"
 subtitle: "What Heidegger and other thinkers reveal about the fundamental differences between human and artificial intelligence"
 ---
 
+Before we get started, I have a few words to say....
+
+
 Previous chapters examined AI's capabilities and limitations from technical and business perspectives. But to truly understand why human intelligence remains irreplaceable, we need to dig deeper into what makes human thinking unique. This takes us into philosophical territory that might seem abstract at first but has profound practical implications for business leaders and investors trying to navigate the AI revolution.
 
 While American and British philosophers have focused primarily on logic and language – which certainly matter for AI development – Continental philosophers, particularly Martin Heidegger, tackled more fundamental questions about what it means to think and exist. Their insights help explain why even our most advanced AI systems, despite impressive capabilities, still miss essential aspects of human intelligence.
