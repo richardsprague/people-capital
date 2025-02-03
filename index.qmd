@@ -6,3 +6,4 @@ Current word count = 20498
 
 This is the preface
 
+test 12345678
