@@ -318,11 +318,22 @@ div.csl-indent {
 </section>
 <section id="fine-tuning-the-output" class="level2" data-number="2.4">
 <h2 data-number="2.4" class="anchored" data-anchor-id="fine-tuning-the-output"><span class="header-section-number">2.4</span> Fine-tuning the output</h2>
-<p>Simple text-completion will only get you so far<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. Usable systems need refinement to make them behave more in the way we expect.</p>
-<p>Reinforcement learning works by applying a reward or penalty score to the output and then retraining recursively until the model improves to an acceptable level.</p>
-<p>Reinforcement learning with human feedback (RLHF) takes this a step further by including humans in the reward formula. The system generates multiple versions of an answer and a human is asked to vote on the best one.</p>
-<p>Reinforcement learning with AI feedback (RLAIF) tries to use the AI itself to provide the feedback</p>
-<p>see Thomas Woodside and Helen Toner: <a href="https://cset.georgetown.edu/article/how-developers-steer-language-model-outputs-large-language-models-explained-part-2/">How Developers Steer Language Model Outputs: Large Language Models Explained, Part 2</a> for a detailed but readable discussion.</p>
+<p>Despite their impressive capabilities, raw language models often generate responses that are technically correct but practically useless. The key challenge lies not in generating text, but in producing output that aligns with human expectations and values.</p>
+<p>Consider how a language model might handle the prompt “How do I make money quickly?” Without fine-tuning, it might suggest illegal schemes or unrealistic get-rich-quick schemes alongside legitimate business advice. The model is simply completing the text based on patterns it has seen, with no understanding of ethics or practicality.</p>
+<p>This is where fine-tuning becomes crucial. The process involves three key approaches:</p>
+<p>Reinforcement learning works by assigning scores to different outputs and adjusting the model’s parameters to favor higher-scoring responses. For example, responses suggesting legitimate business opportunities would receive higher scores than those promoting scams. The model gradually learns to generate more appropriate suggestions.</p>
+<p>RLHF (Reinforcement Learning with Human Feedback)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> adds human judgment to this process. When developing ChatGPT, OpenAI presented human raters with multiple responses to the same prompt. Raters evaluated responses based on helpfulness, truthfulness, and potential harm. This feedback was then used to further train the model.</p>
+<p>RLAIF (Reinforcement Learning with AI Feedback) attempts to scale this process by using AI systems to evaluate outputs. While more scalable than human feedback, this approach faces a fundamental challenge: how can an AI system evaluate responses without understanding human values and context?</p>
+<p>The limitations of AI feedback become apparent in complex scenarios. Consider a medical chatbot trained using RLAIF. The AI evaluator might approve responses that are technically accurate but miss crucial context or nuance that a human doctor would catch. A response suggesting common flu treatments might be technically correct but dangerously incomplete if the patient has mentioned symptoms of a more serious condition.</p>
+<p>This reveals a deeper issue with language models: they can’t truly understand the implications of their outputs. They operate through pattern recognition rather than comprehension. When the model suggests “Take aspirin for your headache,” it’s not actually giving medical advice – it’s predicting what words commonly follow “Take ___ for your headache” in its training data.</p>
+<p>Fine-tuning can mitigate these limitations but never fully eliminate them. Each approach comes with tradeoffs:</p>
+<p>Traditional reinforcement learning excels at optimizing for specific, measurable metrics but struggles with subjective qualities like helpfulness or creativity. A model trained to maximize engagement might generate controversial or sensational content rather than accurate, balanced information.</p>
+<p>RLHF produces more nuanced, socially aware responses but faces scaling challenges. Human evaluators are expensive and can introduce their own biases. Different evaluators might have conflicting views on what constitutes a “good” response, especially for controversial topics.</p>
+<p>RLAIF attempts to bridge this gap but inherits the fundamental limitations of AI systems. An AI evaluator might approve responses that are syntactically perfect but semantically nonsensical, or miss subtle forms of bias that human evaluators would catch.</p>
+<p>These challenges explain why even advanced language models occasionally produce responses that are simultaneously impressive and problematic. They might generate perfectly formatted code that contains subtle security vulnerabilities, or write eloquent essays that include factual inaccuracies.</p>
+<p>Understanding these limitations is crucial for anyone implementing AI systems. The goal of fine-tuning isn’t to create perfect responses, but to make the model’s limitations predictable and manageable. This often means designing systems where AI augments rather than replaces human judgment.</p>
+<p>Consider how JPMorgan uses AI in its risk assessment processes. Rather than relying solely on AI-generated analysis, they use fine-tuned models to flag potential issues for human review. The AI processes vast amounts of data to identify patterns, but final decisions remain with human analysts who can consider broader context and implications.</p>
+<p>This hybrid approach acknowledges both the power and limitations of fine-tuned models. The AI excels at pattern recognition and data processing, while humans provide judgment and context. The result is more effective than either could achieve alone.</p>
 </section>
 <section id="wisdom-of-the-crowds" class="level2" data-number="2.5">
 <h2 data-number="2.5" class="anchored" data-anchor-id="wisdom-of-the-crowds"><span class="header-section-number">2.5</span> Wisdom of the crowds</h2>
@@ -671,7 +682,7 @@ Zhou, Shuyan, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xian
 <section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn1"><p>see <a href="https://karpathy.ai/stateofgpt.pdf#page=15">Karpathy</a> for examples<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn1"><p>see Thomas Woodside and Helen Toner: <a href="https://cset.georgetown.edu/article/how-developers-steer-language-model-outputs-large-language-models-explained-part-2/">How Developers Steer Language Model Outputs: Large Language Models Explained, Part 2</a> for a detailed but readable discussion.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn2"><p>see <a href="https://arxiv.org/pdf/2305.00118.pdf">Apr 2023</a> <span class="citation" data-cites="chang_speak_2023">Chang et al. (<a href="references.html#ref-chang_speak_2023" role="doc-biblioref">2023a</a>)</span><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>

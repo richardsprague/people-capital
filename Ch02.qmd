@@ -71,21 +71,45 @@ Some people are very good at this: take what you heard from various other source
 
 ## Fine-tuning the output
 
-Simple text-completion will only get you so far^[see [Karpathy](https://karpathy.ai/stateofgpt.pdf#page=15) for examples]. Usable systems need refinement to make them behave more in the way we expect. 
+Despite their impressive capabilities, raw language models often generate responses that are technically correct but practically useless. The key challenge lies not in generating text, but in producing output that aligns with human expectations and values.
 
-Reinforcement learning works by applying a reward or penalty score to the output and then retraining recursively until the model improves to an acceptable level.
+Consider how a language model might handle the prompt "How do I make money quickly?" Without fine-tuning, it might suggest illegal schemes or unrealistic get-rich-quick schemes alongside legitimate business advice. The model is simply completing the text based on patterns it has seen, with no understanding of ethics or practicality.
 
-Reinforcement learning with human feedback (RLHF) takes this a step further by including humans in the reward formula. The system generates multiple versions of an answer and a human is asked to vote on the best one.
+This is where fine-tuning becomes crucial. The process involves three key approaches:
 
-Reinforcement learning with AI feedback (RLAIF) tries to use the AI itself to provide the feedback
+Reinforcement learning works by assigning scores to different outputs and adjusting the model's parameters to favor higher-scoring responses. For example, responses suggesting legitimate business opportunities would receive higher scores than those promoting scams. The model gradually learns to generate more appropriate suggestions.
 
-see Thomas Woodside and Helen Toner:  [How Developers Steer Language Model Outputs: Large Language Models Explained, Part 2](https://cset.georgetown.edu/article/how-developers-steer-language-model-outputs-large-language-models-explained-part-2/) for a detailed but readable discussion.
+RLHF (Reinforcement Learning with Human Feedback)^[see Thomas Woodside and Helen Toner:  [How Developers Steer Language Model Outputs: Large Language Models Explained, Part 2](https://cset.georgetown.edu/article/how-developers-steer-language-model-outputs-large-language-models-explained-part-2/) for a detailed but readable discussion.] adds human judgment to this process. When developing ChatGPT, OpenAI presented human raters with multiple responses to the same prompt. Raters evaluated responses based on helpfulness, truthfulness, and potential harm. This feedback was then used to further train the model.
+
+RLAIF (Reinforcement Learning with AI Feedback) attempts to scale this process by using AI systems to evaluate outputs. While more scalable than human feedback, this approach faces a fundamental challenge: how can an AI system evaluate responses without understanding human values and context?
+
+The limitations of AI feedback become apparent in complex scenarios. Consider a medical chatbot trained using RLAIF. The AI evaluator might approve responses that are technically accurate but miss crucial context or nuance that a human doctor would catch. A response suggesting common flu treatments might be technically correct but dangerously incomplete if the patient has mentioned symptoms of a more serious condition.
+
+This reveals a deeper issue with language models: they can't truly understand the implications of their outputs. They operate through pattern recognition rather than comprehension. When the model suggests "Take aspirin for your headache," it's not actually giving medical advice – it's predicting what words commonly follow "Take ___ for your headache" in its training data.
+
+Fine-tuning can mitigate these limitations but never fully eliminate them. Each approach comes with tradeoffs:
+
+Traditional reinforcement learning excels at optimizing for specific, measurable metrics but struggles with subjective qualities like helpfulness or creativity. A model trained to maximize engagement might generate controversial or sensational content rather than accurate, balanced information.
+
+RLHF produces more nuanced, socially aware responses but faces scaling challenges. Human evaluators are expensive and can introduce their own biases. Different evaluators might have conflicting views on what constitutes a "good" response, especially for controversial topics.
+
+RLAIF attempts to bridge this gap but inherits the fundamental limitations of AI systems. An AI evaluator might approve responses that are syntactically perfect but semantically nonsensical, or miss subtle forms of bias that human evaluators would catch.
+
+These challenges explain why even advanced language models occasionally produce responses that are simultaneously impressive and problematic. They might generate perfectly formatted code that contains subtle security vulnerabilities, or write eloquent essays that include factual inaccuracies.
+
+Understanding these limitations is crucial for anyone implementing AI systems. The goal of fine-tuning isn't to create perfect responses, but to make the model's limitations predictable and manageable. This often means designing systems where AI augments rather than replaces human judgment.
+
+Consider how JPMorgan uses AI in its risk assessment processes. Rather than relying solely on AI-generated analysis, they use fine-tuned models to flag potential issues for human review. The AI processes vast amounts of data to identify patterns, but final decisions remain with human analysts who can consider broader context and implications.
+
+This hybrid approach acknowledges both the power and limitations of fine-tuned models. The AI excels at pattern recognition and data processing, while humans provide judgment and context. The result is more effective than either could achieve alone.
+
+
 
 ## Wisdom of the crowds
 
 An LLM is sampling from an unimaginably complex mathematical model of the distribution of human words -- essentially a wisdom of crowds effect that distills the collective output of humanity in a statistical way.
 
-* * *
+***
 
 ## Where do you get the documents
 
@@ -116,7 +140,7 @@ from [NYTimes](https://www.nytimes.com/2024/04/06/technology/ai-data-tech-takeaw
 
 ![GPT-3 Data Sources](_resources/images/Ch02-images/OpenAITrainingDataNYTimesChart.png)
 
-* * *
+***
 
 
 ## Organizing the data
