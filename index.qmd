@@ -2,8 +2,6 @@
 
 This is an initial placeholder for a 75,000 word book.
 
-Current word count = 20498
+Current word count = 21802
 
 This is the preface
-
-test 12345678
