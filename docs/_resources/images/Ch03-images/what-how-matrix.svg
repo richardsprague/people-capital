@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 700">
+  <!-- Background -->
+  <rect width="800" height="700" fill="#f8f9fa" />
+  
+  <!-- Grid lines -->
+  <line x1="400" y1="100" x2="400" y2="600" stroke="#555" stroke-width="2" />
+  <line x1="150" y1="350" x2="650" y2="350" stroke="#555" stroke-width="2" />
+  
+  <!-- Axes labels -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold" fill="#333">The What-How Intelligence Matrix</text>
+  
+  <!-- X-axis -->
+  <text x="150" y="380" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="#333">"HOW"</text>
+  <text x="650" y="380" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="#333">"WHAT"</text>
+  <text x="400" y="630" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#333">Problem Framing Spectrum</text>
+  
+  <!-- Y-axis -->
+  <text x="120" y="150" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#333" transform="rotate(-90, 120, 150)">AI CAPABLE</text>
+  <text x="120" y="550" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#333" transform="rotate(-90, 120, 550)">HUMAN REQUIRED</text>
+  <text x="80" y="350" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#333" transform="rotate(-90, 80, 350)">Intelligence Type</text>
+  
+  <!-- Quadrants -->
+  <!-- Quadrant 1: Top Left - How/AI Capable -->
+  <rect x="150" y="100" width="250" height="250" fill="#a8d08d" fill-opacity="0.3" stroke="#a8d08d" stroke-width="1" />
+  <text x="275" y="130" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#2e7d32">AUTOMATION ZONE</text>
+  
+  <!-- Quadrant 2: Top Right - What/AI Capable -->
+  <rect x="400" y="100" width="250" height="250" fill="#ffd966" fill-opacity="0.3" stroke="#ffd966" stroke-width="1" />
+  <text x="525" y="130" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#b45f06">EMERGING AI FRONTIER</text>
+  
+  <!-- Quadrant 3: Bottom Left - How/Human Required -->
+  <rect x="150" y="350" width="250" height="250" fill="#9fc5e8" fill-opacity="0.3" stroke="#9fc5e8" stroke-width="1" />
+  <text x="275" y="380" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#0b5394">SKILLED CRAFT ZONE</text>
+  
+  <!-- Quadrant 4: Bottom Right - What/Human Required -->
+  <rect x="400" y="350" width="250" height="250" fill="#ea9999" fill-opacity="0.3" stroke="#ea9999" stroke-width="1" />
+  <text x="525" y="380" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#990000">HUMAN JUDGMENT</text>
+  
+  <!-- Example tasks in each quadrant -->
+  <!-- Quadrant 1: Top Left - How/AI Capable -->
+  <circle cx="200" cy="150" r="5" fill="#2e7d32" />
+  <text x="210" y="150" font-family="Arial" font-size="14" fill="#333">Data processing</text>
+  
+  <circle cx="220" cy="200" r="5" fill="#2e7d32" />
+  <text x="230" y="200" font-family="Arial" font-size="14" fill="#333">Language translation</text>
+  
+  <circle cx="270" cy="250" r="5" fill="#2e7d32" />
+  <text x="280" y="250" font-family="Arial" font-size="14" fill="#333">Report generation</text>
+  
+  <circle cx="300" cy="180" r="5" fill="#2e7d32" />
+  <text x="310" y="180" font-family="Arial" font-size="14" fill="#333">Scheduling optimization</text>
+  
+  <!-- Quadrant 2: Top Right - What/AI Capable -->
+  <circle cx="450" cy="160" r="5" fill="#b45f06" />
+  <text x="460" y="160" font-family="Arial" font-size="14" fill="#333">Pattern recognition</text>
+  
+  <circle cx="490" cy="210" r="5" fill="#b45f06" />
+  <text x="500" y="210" font-family="Arial" font-size="14" fill="#333">Statistical forecasting</text>
+  
+  <circle cx="550" cy="240" r="5" fill="#b45f06" />
+  <text x="560" y="240" font-family="Arial" font-size="14" fill="#333">Structured problem-solving</text>
+  
+  <circle cx="530" cy="170" r="5" fill="#b45f06" />
+  <text x="540" y="170" font-family="Arial" font-size="14" fill="#333">Content classification</text>
+  
+  <!-- Quadrant 3: Bottom Left - How/Human Required -->
+  <circle cx="200" cy="420" r="5" fill="#0b5394" />
+  <text x="210" y="420" font-family="Arial" font-size="14" fill="#333">Delicate surgery</text>
+  
+  <circle cx="240" cy="470" r="5" fill="#0b5394" />
+  <text x="250" y="470" font-family="Arial" font-size="14" fill="#333">Physical therapy</text>
+  
+  <circle cx="290" cy="430" r="5" fill="#0b5394" />
+  <text x="300" y="430" font-family="Arial" font-size="14" fill="#333">Artisanal crafts</text>
+  
+  <circle cx="210" cy="510" r="5" fill="#0b5394" />
+  <text x="220" y="510" font-family="Arial" font-size="14" fill="#333">Athletic performance</text>
+  
+  <!-- Quadrant 4: Bottom Right - What/Human Required -->
+  <circle cx="450" cy="420" r="5" fill="#990000" />
+  <text x="460" y="420" font-family="Arial" font-size="14" fill="#333">Crisis management</text>
+  
+  <circle cx="500" cy="470" r="5" fill="#990000" />
+  <text x="510" y="470" font-family="Arial" font-size="14" fill="#333">Creative direction</text>
+  
+  <circle cx="550" cy="530" r="5" fill="#990000" />
+  <text x="560" y="530" font-family="Arial" font-size="14" fill="#333">Strategic leadership</text>
+  
+  <circle cx="480" cy="520" r="5" fill="#990000" />
+  <text x="490" y="520" font-family="Arial" font-size="14" fill="#333">Diplomatic negotiation</text>
+  
+  <!-- Annotations -->
+  <text x="275" y="330" text-anchor="middle" font-family="Arial" font-size="13" font-style="italic" fill="#555">Procedural tasks where AI excels</text>
+  
+  <text x="525" y="330" text-anchor="middle" font-family="Arial" font-size="13" font-style="italic" fill="#555">AI successfully handles structured framing</text>
+  
+  <text x="275" y="580" text-anchor="middle" font-family="Arial" font-size="13" font-style="italic" fill="#555">Physical/embodied intelligence domains</text>
+  
+  <text x="525" y="580" text-anchor="middle" font-family="Arial" font-size="13" font-style="italic" fill="#555">Core human judgment persists longest</text>
+  
+  <!-- Footer -->
+  <text x="400" y="660" text-anchor="middle" font-family="Arial" font-size="14" fill="#555">© The Human Element: Why AI Will Enhance, Not Replace</text>
+</svg>

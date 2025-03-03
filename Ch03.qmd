@@ -250,6 +250,21 @@ The future belongs not to those who can execute tasks most efficiently, but to t
 
 In the early days of the personal computer revolution, spreadsheet software transformed financial analysis. Critics warned that tools like VisiCalc and Lotus 1-2-3 would eliminate financial analysts by automating their calculations. Instead, these tools dramatically increased productivity while shifting analysts' focus from mathematical computation to business insight. Today's artificial intelligence is driving a similar transformation, but at a far greater scale and across virtually every knowledge-based profession.
 
+
+:::{#fig-what-how-matrix}
+
+```{=html}
+<img src="_resources/images/Ch03-images/what-how-matrix.svg" alt="What-How Matrix">
+```
+
+```{=latex}
+\includegraphics[width=0.8\textwidth]{_resources/images/Ch03-images/what-how-matrix.pdf}
+
+```
+
+:::
+
+
 ## Beyond the False Binary
 
 The current discourse on AI's impact falls into a tiresome and inaccurate binary: either AI will replace human workers entirely, or its effects will be marginal. Both narratives miss the fundamental transformation underway. What we're witnessing is not wholesale replacement but a profound shift in the nature of human contribution—a redistribution of value across the knowledge work spectrum that redefines which human capabilities command a premium.

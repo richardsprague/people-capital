@@ -40,6 +40,8 @@ format:
     standalone: true
     toc: true
     link-external-newwindow: true
+    execute:
+      fig-format: svg
   pdf:
     papersize: "Letter"
     mainfont: "Georgia"
@@ -47,10 +49,10 @@ format:
     documentclass: scrbook
     geometry: paperwidth=6in,paperheight=9in
     standalone: true
+    execute:
+      fig-format: pdf
   docx:
     reference-doc: _resources/book/reference.docx
 
   epub:
     cover-image: _resources/book/HumanElementCover.jpg
-
-
