@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f9f9f9"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">The Human-AI Enhancement Framework</text>
+  
+  <!-- Axes -->
+  <line x1="100" y1="500" x2="700" y2="500" stroke="#333" stroke-width="2"/>
+  <line x1="100" y1="100" x2="100" y2="500" stroke="#333" stroke-width="2"/>
+  
+  <!-- Axis Labels -->
+  <text x="400" y="540" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">Human Value</text>
+  <text x="60" y="300" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" transform="rotate(-90, 60, 300)">AI Value</text>
+  <text x="125" y="520" font-family="Arial, sans-serif" font-size="14" text-anchor="start">Low</text>
+  <text x="680" y="520" font-family="Arial, sans-serif" font-size="14" text-anchor="end">High</text>
+  <text x="85" y="480" font-family="Arial, sans-serif" font-size="14" text-anchor="end">Low</text>
+  <text x="85" y="120" font-family="Arial, sans-serif" font-size="14" text-anchor="end">High</text>
+  
+  <!-- Quadrant Dividers -->
+  <line x1="100" y1="300" x2="700" y2="300" stroke="#777" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="400" y1="100" x2="400" y2="500" stroke="#777" stroke-width="1" stroke-dasharray="5,5"/>
+  
+  <!-- Quadrant Backgrounds -->
+  <rect x="101" y="101" width="298" height="198" fill="#FFE0E0" fill-opacity="0.5"/>
+  <rect x="401" y="101" width="298" height="198" fill="#E0F3FF" fill-opacity="0.7"/>
+  <rect x="101" y="301" width="298" height="198" fill="#F0F0F0" fill-opacity="0.5"/>
+  <rect x="401" y="301" width="298" height="198" fill="#DFFFDF" fill-opacity="0.5"/>
+  
+  <!-- Quadrant Titles -->
+  <text x="250" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Quadrant 1: Automation Zone</text>
+  <text x="550" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Quadrant 2: Human Domain</text>
+  <text x="250" y="330" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Quadrant 3: Process Redesign</text>
+  <text x="550" y="330" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#006600">Quadrant 4: Enhancement Sweet Spot</text>
+  
+  <!-- Quadrant 1 Content -->
+  <text x="250" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">High AI Value, Low Human Value</text>
+  <text x="250" y="190" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Monitoring large-scale systems</text>
+  <text x="250" y="210" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Repetitive document processing</text>
+  <text x="250" y="230" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Routine calculations on large datasets</text>
+  <text x="250" y="250" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Data classification and organization</text>
+  
+  <!-- Quadrant 2 Content -->
+  <text x="550" y="160" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Low AI Value, High Human Value</text>
+  <text x="550" y="190" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Leadership and team building</text>
+  <text x="550" y="210" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Ethical decision-making</text>
+  <text x="550" y="230" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Creative vision and direction</text>
+  <text x="550" y="250" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Complex negotiations</text>
+  
+  <!-- Quadrant 3 Content -->
+  <text x="250" y="360" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Low AI Value, Low Human Value</text>
+  <text x="250" y="390" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Vestigial processes</text>
+  <text x="250" y="410" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Unnecessarily complex compliance</text>
+  <text x="250" y="430" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Redundant administrative tasks</text>
+  <text x="250" y="450" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Candidates for elimination or redesign</text>
+  
+  <!-- Quadrant 4 Content -->
+  <text x="550" y="360" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#006600">High AI Value, High Human Value</text>
+  <text x="550" y="390" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Medical diagnostics</text>
+  <text x="550" y="410" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Investment research</text>
+  <text x="550" y="430" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Product design and innovation</text>
+  <text x="550" y="450" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">• Data-informed strategic decisions</text>
+  
+  <!-- Footer -->
+  <text x="400" y="580" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" font-style="italic">© The Human Element: Why AI Will Enhance, Not Replace</text>
+</svg>
