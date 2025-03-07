@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa" />
+  
+  <!-- Grid lines -->
+  <line x1="100" y1="100" x2="100" y2="500" stroke="#ccc" stroke-width="2" />
+  <line x1="100" y1="500" x2="700" y2="500" stroke="#ccc" stroke-width="2" />
+  
+  <!-- Axes labels -->
+  <text x="400" y="550" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#333">"How" Implementation Capabilities</text>
+  <text x="40" y="300" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#333" transform="rotate(-90, 40, 300)">"What" Strategic Capabilities</text>
+  
+  <!-- Quadrant labels -->
+  <rect x="110" y="110" width="280" height="180" fill="#e6f3ff" opacity="0.7" rx="10" ry="10" />
+  <text x="250" y="150" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#0066cc">Strategic Leaders,</text>
+  <text x="250" y="180" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#0066cc">Implementation Laggards</text>
+  <text x="250" y="220" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Traditional consulting firms</text>
+  <text x="250" y="250" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Legacy creative agencies</text>
+  <text x="250" y="280" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Boutique investment firms</text>
+  
+  <rect x="410" y="110" width="280" height="180" fill="#e0f7ee" opacity="0.7" rx="10" ry="10" />
+  <text x="550" y="150" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#00994c">Full-Spectrum Leaders</text>
+  <text x="550" y="220" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• JPMorgan</text>
+  <text x="550" y="250" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Mayo Clinic</text>
+  <text x="550" y="280" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Microsoft</text>
+  
+  <rect x="110" y="310" width="280" height="180" fill="#fff2e6" opacity="0.7" rx="10" ry="10" />
+  <text x="250" y="350" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#ff8c1a">Dual Laggards</text>
+  <text x="250" y="420" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Legacy mid-market firms</text>
+  <text x="250" y="450" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Late tech adopters</text>
+  <text x="250" y="480" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Declining industries</text>
+  
+  <rect x="410" y="310" width="280" height="180" fill="#ffe6f0" opacity="0.7" rx="10" ry="10" />
+  <text x="550" y="350" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#cc0066">Implementation Leaders,</text>
+  <text x="550" y="380" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#cc0066">Strategic Laggards</text>
+  <text x="550" y="420" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Pure-play AI startups</text>
+  <text x="550" y="450" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Early-stage tech companies</text>
+  <text x="550" y="480" text-anchor="middle" font-family="Arial" font-size="16" fill="#333">• Automation-focused firms</text>
+  
+  <!-- Arrows -->
+  <line x1="170" y1="350" x2="250" y2="250" stroke="#555" stroke-width="3" marker-end="url(#arrowhead)" />
+  <line x1="250" y1="250" x2="450" y2="250" stroke="#555" stroke-width="3" marker-end="url(#arrowhead)" />
+  <line x1="450" y1="400" x2="450" y2="300" stroke="#555" stroke-width="3" marker-end="url(#arrowhead)" />
+  
+  <!-- Arrow definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555" />
+    </marker>
+  </defs>
+  
+  <!-- Axis labels -->
+  <text x="150" y="520" text-anchor="middle" font-family="Arial" font-size="16" fill="#666">Low</text>
+  <text x="650" y="520" text-anchor="middle" font-family="Arial" font-size="16" fill="#666">High</text>
+  <text x="80" y="450" text-anchor="middle" font-family="Arial" font-size="16" fill="#666">Low</text>
+  <text x="80" y="150" text-anchor="middle" font-family="Arial" font-size="16" fill="#666">High</text>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#333">The What-How Integration Matrix</text>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial" font-size="18" fill="#666">Mapping AI Investment Opportunities</text>
+</svg>

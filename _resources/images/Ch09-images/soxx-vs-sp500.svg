@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="white" />
+  
+  <!-- Title and subtitle -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">SOXX vs S&amp;P 500 Total Returns (2020-2025)</text>
+  <text x="400" y="55" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">Indexed to 100 at January 2020</text>
+  
+  <!-- Chart area -->
+  <rect x="70" y="80" width="680" height="350" fill="none" stroke="#eee" stroke-width="1" />
+  
+  <!-- Grid lines -->
+  <line x1="70" y1="150" x2="750" y2="150" stroke="#ddd" stroke-width="1" stroke-dasharray="5,5" />
+  <line x1="70" y1="220" x2="750" y2="220" stroke="#ddd" stroke-width="1" stroke-dasharray="5,5" />
+  <line x1="70" y1="290" x2="750" y2="290" stroke="#ddd" stroke-width="1" stroke-dasharray="5,5" />
+  <line x1="70" y1="360" x2="750" y2="360" stroke="#ddd" stroke-width="1" stroke-dasharray="5,5" />
+  
+  <!-- Y-axis labels -->
+  <text x="60" y="430" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="end">0</text>
+  <text x="60" y="360" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="end">100</text>
+  <text x="60" y="290" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="end">200</text>
+  <text x="60" y="220" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="end">300</text>
+  <text x="60" y="150" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="end">400</text>
+  <text x="60" y="80" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="end">500</text>
+  
+  <!-- X-axis labels -->
+  <text x="70" y="450" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Jan 2020</text>
+  <text x="193" y="450" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Jan 2021</text>
+  <text x="316" y="450" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Jan 2022</text>
+  <text x="439" y="450" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Jan 2023</text>
+  <text x="562" y="450" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Jan 2024</text>
+  <text x="685" y="450" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Jan 2025</text>
+  
+  <!-- Lines -->
+  <!-- SOXX line -->
+  <polyline 
+    points="
+      70,360 
+      135,317 
+      193,252 
+      254,230 
+      316,245 
+      377,272 
+      439,220 
+      500,158 
+      562,125 
+      623,112 
+      685,95
+    " 
+    fill="none" 
+    stroke="#2563eb" 
+    stroke-width="3" 
+  />
+  
+  <!-- S&P 500 line -->
+  <polyline 
+    points="
+      70,360 
+      135,352 
+      193,333 
+      254,317 
+      316,325 
+      377,343 
+      439,330 
+      500,312 
+      562,295 
+      623,290 
+      685,270
+    " 
+    fill="none" 
+    stroke="#64748b" 
+    stroke-width="3" 
+  />
+  
+  <!-- Data points SOXX -->
+  <circle cx="70" cy="360" r="5" fill="#2563eb" />
+  <circle cx="135" cy="317" r="5" fill="#2563eb" />
+  <circle cx="193" cy="252" r="5" fill="#2563eb" />
+  <circle cx="254" cy="230" r="5" fill="#2563eb" />
+  <circle cx="316" cy="245" r="5" fill="#2563eb" />
+  <circle cx="377" cy="272" r="5" fill="#2563eb" />
+  <circle cx="439" cy="220" r="5" fill="#2563eb" />
+  <circle cx="500" cy="158" r="5" fill="#2563eb" />
+  <circle cx="562" cy="125" r="5" fill="#2563eb" />
+  <circle cx="623" cy="112" r="5" fill="#2563eb" />
+  <circle cx="685" cy="95" r="5" fill="#2563eb" />
+  
+  <!-- Data points S&P 500 -->
+  <circle cx="70" cy="360" r="5" fill="#64748b" />
+  <circle cx="135" cy="352" r="5" fill="#64748b" />
+  <circle cx="193" cy="333" r="5" fill="#64748b" />
+  <circle cx="254" cy="317" r="5" fill="#64748b" />
+  <circle cx="316" cy="325" r="5" fill="#64748b" />
+  <circle cx="377" cy="343" r="5" fill="#64748b" />
+  <circle cx="439" cy="330" r="5" fill="#64748b" />
+  <circle cx="500" cy="312" r="5" fill="#64748b" />
+  <circle cx="562" cy="295" r="5" fill="#64748b" />
+  <circle cx="623" cy="290" r="5" fill="#64748b" />
+  <circle cx="685" cy="270" r="5" fill="#64748b" />
+  
+  <!-- Legend -->
+  <rect x="550" y="120" width="15" height="15" fill="#2563eb" />
+  <text x="575" y="132" font-family="Arial, sans-serif" font-size="14" fill="#333">SOXX (Semiconductor ETF)</text>
+  
+  <rect x="550" y="145" width="15" height="15" fill="#64748b" />
+  <text x="575" y="157" font-family="Arial, sans-serif" font-size="14" fill="#333">S&amp;P 500</text>
+  
+  <!-- Caption -->
+  <text x="400" y="485" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">Chart shows the remarkable outperformance of semiconductor stocks compared to the broader market,</text>
+  <text x="400" y="500" font-family="Arial, sans-serif" font-size="12" fill="#666" text-anchor="middle">reflecting the sector's critical role in AI infrastructure development.</text>
+</svg>

@@ -2,6 +2,25 @@
 
 This is an initial placeholder for a 75,000 word book.
 
-Current word count = 32269
+Current word count :
 
-This is the preface
+
+```{r}
+#| echo: false
+#| 
+files <- list.files(pattern = "*.qmd")
+total_words <- 0
+
+for (file in files) {
+  content <- readLines(file, warn = FALSE)
+  content <- paste(content, collapse = " ")
+  content <- gsub("---.*---", "", content)
+  content <- gsub("```.*```", "", content, perl = TRUE)
+  words <- strsplit(content, "\\s+")[[1]]
+  total_words <- total_words + length(words)
+}
+
+cat(total_words)
+
+```
+
