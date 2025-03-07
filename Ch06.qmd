@@ -26,7 +26,7 @@ This pattern repeats across domains. In healthcare, AI excels at processing thou
 
 How do we identify the points where AI can most effectively enhance human capabilities? We've developed a practical framework based on our extensive analysis of AI implementations across industries.
 
-### 1. The "What" versus "How" Distinction
+**1. The "What" versus "How" Distinction**
 
 As we explored in Chapter 3, a useful lens for understanding AI's impact is the distinction between knowing "what" to do versus knowing "how" to do it. This framework helps identify enhancement opportunities by clarifying where each type of intelligence holds comparative advantage.
 
@@ -38,7 +38,7 @@ Similarly, in software development, AI coding assistants like GitHub Copilot or 
 
 This distinction helps identify processes ripe for enhancement. Examine your value chain and ask: Where are we spending significant human resources on "how" tasks that could be handled by AI, potentially freeing human capacity for higher-value "what" activities?
 
-### 2. The Decisioning Framework and Four-Quadrant Enhancement Model
+**2. The Decisioning Framework and Four-Quadrant Enhancement Model**
 
 Through our research across industries, we've identified three key questions that help organizations find their enhancement sweet spot:
 
@@ -84,7 +84,7 @@ Organizations should systematically inventory their processes and map them to th
 
 Let's examine how leading organizations across industries have identified and developed their enhancement sweet spots.
 
-### Healthcare: Augmented Diagnostics
+**Healthcare: Augmented Diagnostics**
 
 Contrary to early predictions that AI would replace radiologists, the most successful implementations enhance radiologists' capabilities rather than attempting to substitute for them. Mayo Clinic's work with AI diagnostic tools demonstrates this approach.
 
@@ -94,7 +94,7 @@ This collaborative approach improves diagnostic accuracy while reducing radiolog
 
 Importantly, Mayo didn't simply deploy AI and expect radiologists to adapt. They carefully redesigned workflows to optimize the human-AI partnership, creating intuitive interfaces that present AI findings without overwhelming human users with unnecessary technical details.
 
-### Financial Services: Enhanced Risk Assessment
+**Financial Services: Enhanced Risk Assessment**
 
 JPMorgan's implementation of Contract Intelligence (COiN) shows how AI can enhance rather than replace human judgment in financial services. The system reviews legal documents in seconds rather than the 360,000 hours it would take humans, extracting key provisions and flagging potential issues.
 
@@ -102,7 +102,7 @@ But final decisions still rest with experienced bankers who understand client re
 
 This enhancement approach delivers substantially greater value than either automation or traditional manual processes alone. It reduces costs and processing time while improving accuracy and consistency. Perhaps most importantly, it redirects highly-compensated professionals from low-value document review to high-value client service and strategic thinking.
 
-### Manufacturing and Transportation: Enhanced Human Capabilities
+**Manufacturing and Transportation: Enhanced Human Capabilities**
 
 BMW's implementation of AI in manufacturing quality control demonstrates another successful enhancement approach. Their AI systems analyze images from cameras positioned throughout the production line, identifying potential defects with greater consistency than human inspectors could achieve alone.
 
@@ -112,7 +112,7 @@ This collaborative approach has reduced defect rates while allowing human inspec
 
 A similar philosophy guides Daimler Trucks' approach to AI. Rather than pursuing full autonomy at all costs, they developed AI systems that help human drivers operate more safely and efficiently. The AI handles tasks like maintaining safe following distances and optimizing fuel consumption, while humans manage complex navigation and unexpected situations. This stands in stark contrast to some autonomous vehicle companies that have struggled by trying to eliminate human drivers entirely.
 
-### Creative Industries: Collaborative Design
+**Creative Industries: Collaborative Design**
 
 While early AI art generators prompted fears about machines replacing creative professionals, the enhancement approach is proving more valuable. Design firm IDEO's work with generative AI tools shows how this plays out in practice.
 
@@ -128,7 +128,7 @@ This enhancement approach accelerates the design process while maintaining the e
 
 Organizations that successfully enhance human capabilities with AI follow several key principles:
 
-### The Role of Management and Cultural Considerations
+**The Role of Management and Cultural Considerations**
 
 Finding the sweet spot requires rethinking traditional management approaches. Leaders must understand both AI's capabilities and human psychology. When McKinsey implemented AI tools for its consultants, success came not from the technology itself but from careful attention to how consultants would interact with it. The firm recognized that consultants needed to maintain ownership of client relationships and strategic insights while leveraging AI for research and analysis.
 
@@ -136,7 +136,7 @@ This highlights a crucial point: the enhancement sweet spot isn't static. As AI 
 
 Perhaps most importantly, organizations must maintain what we call "human centrality" – the principle that AI serves human objectives rather than the reverse. This requires careful attention to organizational culture. When Microsoft deployed AI tools across its engineering teams, success came from emphasizing how the technology would enhance rather than replace human capabilities.
 
-### Start with Human Needs, Not AI Capabilities
+**Start with Human Needs, Not AI Capabilities**
 
 Many AI implementations fail because they begin with the technology rather than the problem. Organizations acquire AI solutions looking for applications, rather than identifying specific human capabilities they want to enhance.
 
@@ -146,7 +146,7 @@ Consider how Stitch Fix approached AI implementation. Rather than simply automat
 
 This approach enhanced the capabilities of their human stylists rather than replacing them. The result was more personalized recommendations than either humans or algorithms could achieve alone.
 
-### Design for Appropriate Division of Labor
+**Design for Appropriate Division of Labor**
 
 The interface between human and AI should leverage the strengths of each. AI can process vast datasets and identify patterns, while humans excel at contextual understanding and judgment. Design interactions that optimize this complementarity.
 
@@ -154,7 +154,7 @@ Goldman Sachs' implementation of AI in investment research exemplifies this prin
 
 This division of labor plays to the strengths of each: AI handles data processing at scale, while human analysts contribute contextual understanding about market psychology, regulatory environments, and competitive dynamics that may not be fully captured in the data.
 
-### Build Trust Through Appropriate Transparency
+**Build Trust Through Appropriate Transparency**
 
 Users need appropriate visibility into how AI systems reach their conclusions. The degree of transparency should match the stakes of the decisions being supported—higher-stakes applications require greater transparency and explainability.
 
@@ -162,7 +162,7 @@ Microsoft's implementation of AI-powered features in their development tools ill
 
 By contrast, some early medical AI systems operated as "black boxes," providing diagnoses without explanation. This approach undermined physician trust and limited adoption, regardless of technical accuracy. Newer systems provide visualization of the patterns they've identified and the reasoning behind their assessments, enabling appropriate human oversight.
 
-### Evolve Through Iteration
+**Evolve Through Iteration**
 
 The enhancement sweet spot shifts as both AI capabilities and human practices evolve. Successful implementations establish feedback mechanisms to continuously refine the human-AI partnership based on real-world performance.
 
@@ -174,9 +174,10 @@ Similarly, Google's implementation of AI in search has evolved through continuou
 
 How can you identify and develop enhancement opportunities in your own organization? We recommend a systematic approach:
 
-### 1. Process Inventory and Mapping
+**1. Process Inventory and Mapping**
 
 Begin by inventorying key processes across your organization. For each process, evaluate:
+
 - Current performance metrics and pain points
 - The nature of human contribution (judgment, creativity, empathy, etc.)
 - Data availability and quality
@@ -192,9 +193,10 @@ Successful implementations require several key elements:
 
 3. **Training and adaptation**: Workers need support in developing new skills that complement AI capabilities. The goal isn't to compete with AI but to leverage it effectively.
 
-### 2. Pilot Selection and Design
+**2. Pilot Selection and Design**
 
 Select 1-3 high-potential processes for initial enhancement pilots. For each pilot:
+
 - Define clear success metrics that capture both efficiency and effectiveness
 - Design for appropriate division of labor between human and AI
 - Establish feedback mechanisms to capture user experience and suggestions
@@ -202,9 +204,10 @@ Select 1-3 high-potential processes for initial enhancement pilots. For each pil
 
 Resist the temptation to tackle too many processes simultaneously. Enhancement requires careful design of the human-AI interaction, which benefits from focused attention and learning from early implementations.
 
-### 3. Capability Building
+**3. Capability Building**
 
 Successful enhancement requires new capabilities across the organization:
+
 - Technical teams need skills in human-centered design, not just AI development
 - Domain experts need understanding of AI capabilities and limitations
 - Leadership needs frameworks for evaluating enhancement opportunities
@@ -212,9 +215,10 @@ Successful enhancement requires new capabilities across the organization:
 
 Invest in building these capabilities alongside technical implementation. Organizations that treat enhancement as purely a technical challenge typically achieve lower returns than those that invest in broader organizational capability building.
 
-### 4. Scaling and Evolution
+**4. Scaling and Evolution**
 
 As pilots demonstrate value, develop plans for scaling successful approaches while continuing to refine the human-AI interaction:
+
 - Establish governance mechanisms to ensure consistent implementation while allowing for domain-specific adaptation
 - Build feedback loops to capture learning and identify improvement opportunities
 - Monitor for unintended consequences and adaptation needs
@@ -224,25 +228,25 @@ As pilots demonstrate value, develop plans for scaling successful approaches whi
 
 Finding your enhancement sweet spot delivers operational benefits through improved efficiency and effectiveness. But the strategic implications go further. Organizations that successfully enhance human capabilities with AI gain several sustainable advantages:
 
-### Talent Attraction and Retention
+**Talent Attraction and Retention**
 
 As AI automates routine tasks, knowledge workers increasingly seek roles that emphasize uniquely human capabilities like creativity, judgment, and empathy. Organizations that design for enhancement rather than replacement create more attractive roles that leverage these capabilities.
 
 The Mayo Clinic's approach to AI in radiology has made them more attractive to top talent, not less. By enhancing radiologists' capabilities rather than attempting to replace them, they've created roles that emphasize the aspects of the profession that attracted physicians to the field in the first place—using clinical judgment to improve patient outcomes.
 
-### Sustainable Competitive Advantage
+**Sustainable Competitive Advantage**
 
 Enhancement approaches often create advantages that are harder for competitors to replicate than pure automation. While algorithms can be copied, the integration of AI capabilities with organization-specific human expertise creates unique combinations that are difficult to imitate.
 
 JPMorgan's Contract Intelligence system delivers value not just through its technical capabilities, but through its integration with the firm's specific workflows, domain expertise, and client relationships. This integrated approach creates a more sustainable advantage than either technical capabilities or human expertise alone.
 
-### System Resilience
+**System Resilience**
 
 Enhancement approaches typically create more resilient systems than pure automation. By maintaining appropriate human oversight and judgment, these systems can better handle edge cases, adapt to changing conditions, and recover from failures.
 
 During the COVID-19 pandemic, organizations that had pursued enhancement rather than replacement generally adapted more successfully to unprecedented conditions. Their human-AI systems could incorporate new information and adapt to changing circumstances more effectively than fully automated approaches.
 
-## Looking Forward: The Human-Centered Future of AI
+**Looking Forward: The Human-Centered Future of AI**
 
 As AI capabilities continue to advance, finding the enhancement sweet spot becomes increasingly crucial. Organizations that succeed will be those that maintain focus on human judgment while leveraging AI's computational power. This isn't just about efficiency – it's about creating sustainable competitive advantage through superior decision-making.
 

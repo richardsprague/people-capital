@@ -1,0 +1,41 @@
+\makeatletter
+\usepackage{xcolor} % For gray color
+
+% Define a command to store the subtitle
+\providecommand{\chapter@subtitle}{}
+\newcommand{\storesubtitle}[1]{\renewcommand{\chapter@subtitle}{#1}}
+
+% Print subtitle after chapter title using a hook
+\renewcommand{\chapterheadendvskip}{%
+  \ifx\chapter@subtitle\@empty\else%
+    {\bfseries\small\color{gray}\chapter@subtitle\par\vspace{0.5em}}%
+  \fi%
+  \renewcommand{\chapter@subtitle}{}% Reset subtitle
+  \vskip 2\baselineskip% Default spacing after chapter heading
+}
+
+% Hook into chapter command to capture subtitle
+\AtBeginDocument{%
+  \let\oldchapter\chapter
+  \renewcommand{\chapter}[2][]{%
+    \ifx\relax#1\relax % No subtitle provided
+      \storesubtitle{}%
+      \oldchapter{#2}%
+    \else
+      \storesubtitle{#1}%
+      \oldchapter{#2}%
+    \fi
+  }%
+  % Handle chapters from # headings or no optional argument
+  \let\old@@chapter\@chapter
+  \renewcommand{\@chapter}[2][]{%
+    \ifx\relax#1\relax
+      \storesubtitle{}%
+      \old@@chapter{#2}%
+    \else
+      \storesubtitle{#1}%
+      \old@@chapter{#2}%
+    \fi
+  }%
+}
+\makeatother

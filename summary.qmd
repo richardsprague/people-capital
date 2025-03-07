@@ -1,7 +1,6 @@
 # Summary {.unnumbered}
 
-
-# Building the Future: A Human-Centric Vision for AI
+## Building the Future: A Human-Centric Vision for AI
 
 Throughout this book, we've explored why artificial intelligence will enhance rather than replace human capabilities. As we conclude, it's crucial to examine what this means for building a human-centric AI future.
 

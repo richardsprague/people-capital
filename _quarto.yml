@@ -48,6 +48,7 @@ format:
     toc: true
     documentclass: scrbook
     geometry: paperwidth=6in,paperheight=9in
+    # include-in-header: _resources/custom-chapters.tex
     standalone: true
     execute:
       fig-format: pdf
