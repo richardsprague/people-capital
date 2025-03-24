@@ -279,7 +279,7 @@ The future belongs not to those who can execute tasks most efficiently, but to t
 In the early days of the personal computer revolution, spreadsheet software transformed financial analysis. Critics warned that tools like VisiCalc and Lotus 1-2-3 would eliminate financial analysts by automating their calculations. Instead, these tools dramatically increased productivity while shifting analysts' focus from mathematical computation to business insight. Today's artificial intelligence is driving a similar transformation, but at a far greater scale and across virtually every knowledge-based profession.
 
 
-![What-How Matrix](_resources/images/Ch03-images/what-how-matrix.svg){#fig-what-how-matrix width=80%}
+![What-How Matrix](_resources/images/Ch03-images/what-how-matrix.svg){#fig-what-how-matrix width=95%}
 
 ## Beyond the False Binary
 
