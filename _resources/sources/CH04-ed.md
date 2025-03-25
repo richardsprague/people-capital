@@ -1,5 +1,5 @@
 ---
-title: "Beyond Computation: The Philosophy of Human Intelligence"
+title: "Beyond Computation: The Philosophy of Human Intelligence
 subtitle: "What Heidegger and other thinkers reveal about the fundamental differences between human and artificial intelligence"
 ---
 
