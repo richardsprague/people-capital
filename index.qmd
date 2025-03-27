@@ -6,15 +6,22 @@ Current word count:
 ```{r}
 #| echo: false
 #| 
+
 files <- list.files(pattern = "*.qmd")
 total_words <- 0
 
 for (file in files) {
-  content <- readLines(file, warn = FALSE)
+  content <- readLines(file, warn = FALSE, encoding = "UTF-8")
   content <- paste(content, collapse = " ")
-  content <- gsub("---.*---", "", content)
-  content <- gsub("```.*```", "", content, perl = TRUE)
+  # Remove YAML front matter (non-greedy)
+  content <- gsub("^---[\\s\\S]*?---", "", content)
+  # Remove code blocks
+  content <- gsub("```[^`]*```", "", content, perl = TRUE)
+  # Clean Markdown artifacts (fixed regex)
+  content <- gsub("[#*\\$()_-]+", " ", content)
+  # Split and filter empty strings
   words <- strsplit(content, "\\s+")[[1]]
+  words <- words[words != ""]
   total_words <- total_words + length(words)
 }
 

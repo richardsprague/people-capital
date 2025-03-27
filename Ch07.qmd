@@ -6,13 +6,13 @@ subtitle: "Practical strategies for introducing AI while maintaining human agenc
 
 The gap between artificial intelligence's theoretical potential and its practical implementation remains stubbornly wide. Most organizations approach AI implementation backward, starting with the technology rather than the human element. They ask "What can AI do?" instead of "How can we enhance our people's capabilities?" This fundamental mistake leads to costly failures and missed opportunities.
 
-Consider the Fortune 500 consumer products company we mentioned in Chapter 6. Their project team, tasked with finding AI-driven productivity gains from Microsoft's CoPilot suite, discovered that while the technology could indeed compose email replies and summarize meetings, users spent as much time editing the AI's output as they would have spent writing from scratch. The AI was attempting to replace rather than enhance human capabilities.
+Recall the Fortune 500 consumer products company we mentioned in Chapter 6. Their project team, tasked with finding AI-driven productivity gains from Microsoft's CoPilot suite, discovered that while the technology could indeed compose email replies and summarize meetings, users spent as much time editing the AI's output as they would have spent writing from scratch. The AI was attempting to replace rather than enhance human capabilities.
 
 This pattern repeats across industries. Companies implement AI solutions looking for quick automation wins, only to discover that the technology works best when designed to augment human judgment rather than replace it. The key to successful implementation lies in understanding the distinct roles of human and artificial intelligence, then building systems that leverage the strengths of both.
 
 ## The Enhancement Framework in Practice
 
-As we explored in Chapter 3, a clear framework for distinguishing between tasks suitable for automation versus those that require human enhancement is essential. This distinction often maps to what we call the "what versus how" paradigm.
+As we explored in Chapter 3, a clear framework for distinguishing between tasks suitable for automation versus those that require human enhancement is essential. This distinction often maps to what we have called the "what versus how" paradigm.
 
 AI excels at executing the "how" - processing vast amounts of data, identifying patterns, and generating outputs based on learned patterns. Humans excel at determining "what" needs to be done, providing context, and exercising judgment about the appropriateness of AI-generated outputs. This framework helps organizations avoid the common pitfall of trying to automate judgment-heavy tasks better suited for enhancement.
 
@@ -32,7 +32,7 @@ Mayo Clinic's deployment of AI tools in radiology exemplifies this approach. The
 
 Implementing AI successfully requires significant investment in human training, but not in the way most organizations expect. Rather than focusing solely on technical training about how to use AI tools, successful implementations emphasize training in judgment - helping humans understand when and how to rely on AI assistance.
 
-Consider AeroVironment's implementation of AI in military applications. Operators receive extensive training not just in operating the AI systems but in understanding their limitations and failure modes. This approach produces operators who can effectively collaborate with AI while maintaining the critical human judgment needed for military operations.
+AeroVironment's implementation of AI in military applications is a telling case. Operators receive extensive training not just in operating the AI systems but in understanding their limitations and failure modes. This approach produces operators who can effectively collaborate with AI while maintaining the critical human judgment needed for military operations.
 
 The most effective training programs go beyond button-pushing instructions to develop what we might call "AI literacy" - a sophisticated understanding of what AI does well, where it struggles, and how to evaluate its outputs critically. This requires a combination of technical knowledge and domain expertise.
 
@@ -40,9 +40,9 @@ Goldman Sachs takes this approach with their AI-enhanced investment tools. Analy
 
 ## Measuring Success Beyond Efficiency
 
-Traditional metrics often fail to capture the true value of AI enhancement implementations. Organizations frequently focus on easily measurable efficiency gains while missing the more substantial benefits of enhanced human judgment and decision-making.
+Traditional metrics often fail to capture the true value of AI enhancement implementations. Organizations frequently focus on easily measurable efficiency gains while missing the more substantial benefits of enhanced human judgment and decision-making. This approach gives too much weight to all the things that can be measured, and not enough attention to those that cannot be.
 
-Palantir's implementations offer a model for better measurement. Rather than focusing solely on automation metrics, they measure success through the quality of human-AI collaboration - tracking how effectively analysts use AI tools to reach better conclusions faster. This approach recognizes that AI's value lies not in replacing human analysts but in enhancing their capabilities.
+Palantir's implementations offer a model for better measurement. Rather than focusing solely on automation metrics, they measure success through the quality of human-AI collaboration - tracking how effectively analysts use AI tools to reach better conclusions faster. This approach recognizes that AI's value lies not in replacing human analysts but in enhancing their capabilities. 
 
 Effective measurement frameworks consider both quantitative improvements (time saved, volume processed) and qualitative outcomes (decision quality, novel insights generated, unexpected connections identified). The latter often represent the true value of enhancement approaches but require more sophisticated measurement approaches.
 
