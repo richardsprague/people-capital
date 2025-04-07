@@ -12,7 +12,7 @@ This pattern repeats across industries. Companies implement AI solutions looking
 
 ## The Enhancement Framework in Practice
 
-As we explored in Chapter 3, a clear framework for distinguishing between tasks suitable for automation versus those that require human enhancement is essential. This distinction often maps to what we have called the "what versus how" paradigm.
+As we explored in Chapter 3, a clear framework for distinguishing between tasks suitable for automation versus those that require human enhancement is essential. This distinction often maps to what we have described as the "what versus how" paradigm.
 
 AI excels at executing the "how" - processing vast amounts of data, identifying patterns, and generating outputs based on learned patterns. Humans excel at determining "what" needs to be done, providing context, and exercising judgment about the appropriateness of AI-generated outputs. This framework helps organizations avoid the common pitfall of trying to automate judgment-heavy tasks better suited for enhancement.
 
@@ -34,7 +34,7 @@ Implementing AI successfully requires significant investment in human training, 
 
 AeroVironment's implementation of AI in military applications is a telling case. Operators receive extensive training not just in operating the AI systems but in understanding their limitations and failure modes. This approach produces operators who can effectively collaborate with AI while maintaining the critical human judgment needed for military operations.
 
-The most effective training programs go beyond button-pushing instructions to develop what we might call "AI literacy" - a sophisticated understanding of what AI does well, where it struggles, and how to evaluate its outputs critically. This requires a combination of technical knowledge and domain expertise.
+The most effective training programs go beyond button-pushing instructions to develop a proficiency akin to "AI literacy" - a sophisticated understanding of what AI does well, where it struggles, and how to evaluate its outputs critically. This requires a combination of technical knowledge and domain expertise.
 
 Goldman Sachs takes this approach with their AI-enhanced investment tools. Analysts learn not just how to use the tools but how to identify situations where the AI's recommendations might be biased by historical patterns that no longer apply or where additional human judgment is crucial. This balanced approach maintains the human element while leveraging AI's computational strengths.
 
@@ -100,7 +100,7 @@ However, the fundamental principle remains: successful implementation requires k
 
 This principle extends beyond mere oversight; it recognizes that human judgment, intuition, and accountability are essential elements of effective decision-making. The most successful AI implementations maintain what critics have called "seeing the human doing it" - the visible presence of human judgment and accountability in key decisions.
 
-Consider the creative industries, where AI tools are increasingly common but rarely trusted to work autonomously. The attempt to use AI to complete Beethoven's unfinished tenth symphony, which we discussed in detail in Chapter 8, demonstrates this principle. While the AI could generate music that superficially resembled Beethoven's style, critics and audiences alike found it lacking the essential human element that makes great art compelling.
+Think of the creative industries, where AI tools are increasingly common but rarely trusted to work autonomously. The attempt to use AI to complete Beethoven's unfinished tenth symphony, which we discussed in detail in Chapter 8, demonstrates this principle. While the AI could generate music that superficially resembled Beethoven's style, critics and audiences alike found it lacking the essential human element that makes great art compelling.
 
 ## Investment Implications
 

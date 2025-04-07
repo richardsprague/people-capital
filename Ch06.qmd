@@ -7,11 +7,11 @@ A friend who runs customer support at a Fortune 500 consumer products company re
 
 Meanwhile, a senior cardiologist at Cleveland Clinic told us about her first experience with an AI diagnostic system. The AI flagged a subtle pattern in an echocardiogram that she had initially missed---a potential early sign of valve dysfunction that wouldn't have been caught during routine analysis. Yet in the same week, the AI confidently misinterpreted another scan, suggesting a serious condition where none existed. The cardiologist's contextual understanding and clinical experience immediately recognized the error.
 
-These stories encapsulate what we've observed repeatedly across industries: AI and human intelligence each have distinct strengths and limitations. The most powerful implementations arise not when one replaces the other, but when they work in concert. This chapter explores how to identify and develop these optimal collaboration points---what we call the "enhancement sweet spot."
+These stories encapsulate what we've observed repeatedly across industries: AI and human intelligence each have distinct strengths and limitations. The most powerful implementations arise not when one replaces the other, but when they work in concert. This chapter explores how to identify and develop these optimal collaboration points---the "enhancement sweet spot."
 
 ## The Enhancement Zone
 
-For most of AI's history, the underlying assumption has been replacement: could machines match or exceed human performance at specific tasks? This framing misses the more nuanced reality emerging across successful implementations. The question isn't whether AI can replace humans, but how AI and humans can complement each other in what we call the "enhancement zone."
+For most of AI's history, the underlying assumption has been replacement: could machines match or exceed human performance at specific tasks? This framing misses the more nuanced reality emerging across successful implementations. The question isn't whether AI can replace humans, but how AI and humans can complement each other in the "enhancement zone."
 
 A good illustration comes from how pilots interact with modern aircraft systems. The autopilot handles routine flight operations, allowing human pilots to focus on higher-level decisions and emergency responses. This division of labor exemplifies the enhancement zone -- where AI handles detail-oriented tasks while humans manage strategic decisions. The pilot doesn't need to know exactly how the autopilot calculates minor course corrections. Instead, they focus on what matters: safely getting passengers to their destination.
 
@@ -134,7 +134,7 @@ Finding the sweet spot requires rethinking traditional management approaches. Le
 
 This highlights a crucial point: the enhancement sweet spot isn't static. As AI capabilities evolve, the boundary between human and machine tasks shifts. Organizations need adaptive frameworks that allow for continuous rebalancing of responsibilities.
 
-Perhaps most importantly, organizations must maintain what we call "human centrality" -- the principle that AI serves human objectives rather than the reverse. This requires careful attention to organizational culture. When Microsoft deployed AI tools across its engineering teams, success came from emphasizing how the technology would enhance rather than replace human capabilities.
+Perhaps most importantly, organizations must maintain "human centrality" -- the principle that AI serves human objectives rather than the reverse. This requires careful attention to organizational culture. When Microsoft deployed AI tools across its engineering teams, success came from emphasizing how the technology would enhance rather than replace human capabilities.
 
 **Start with Human Needs, Not AI Capabilities**
 
@@ -262,7 +262,7 @@ During the COVID-19 pandemic, organizations that had pursued enhancement rather 
 
 As AI capabilities continue to advance, finding the enhancement sweet spot becomes increasingly crucial. Organizations that succeed will be those that maintain focus on human judgment while leveraging AI's computational power. This isn't just about efficiency -- it's about creating sustainable competitive advantage through superior decision-making.
 
-Consider the evolution of chess after Deep Blue defeated Garry Kasparov. Rather than eliminating human players, AI led to the emergence of centaur chess, where human-AI teams consistently outperform either humans or AI alone. This model points to the future of knowledge work: not a competition between human and artificial intelligence, but a synthesis that enhances human capabilities while preserving human agency.
+Recall the evolution of chess after Deep Blue defeated Garry Kasparov. Rather than eliminating human players, AI led to the emergence of centaur chess, where human-AI teams consistently outperform either humans or AI alone. This model points to the future of knowledge work: not a competition between human and artificial intelligence, but a synthesis that enhances human capabilities while preserving human agency.
 
 The most valuable AI implementations of the coming decade will neither attempt to replicate human capabilities nor eliminate human roles. Instead, they will enhance human judgment, creativity, and decision-making by handling computational complexity while preserving space for uniquely human contributions.
 

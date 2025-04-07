@@ -21,7 +21,7 @@ This is not to say the transition will be painless. Many jobs will disappear or 
 
 Drawing on our combined experience in finance and technology, we've observed a consistent pattern across industries: the most successful AI applications are those that augment human judgment rather than attempt to replace it. From financial trading desks to hospital diagnostic centers, from military command posts to creative studios, the winning formula consistently involves keeping humans "in the loop" while leveraging AI's computational capabilities.
 
-Previous technological revolutions follow similar trajectories. Consider the introduction of ATMs in banking. Many predicted the extinction of human bank tellers. Yet something unexpected happened: while fewer tellers were needed per branch, banks opened more branches, and the total number of tellers actually increased. The nature of their work evolved from routine transactions to more complex customer service and relationship management.
+Previous technological revolutions follow similar trajectories. Recall the introduction of ATMs in banking. Many predicted the extinction of human bank tellers. Yet something unexpected happened: while fewer tellers were needed per branch, banks opened more branches, and the total number of tellers actually increased. The nature of their work evolved from routine transactions to more complex customer service and relationship management.
 
 The same pattern emerged with computer-aided design tools in architecture. Rather than replacing architects, these tools enhanced their creative capabilities and ultimately enabled firms to hire more architects to pursue more ambitious projects.
 

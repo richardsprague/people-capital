@@ -17,7 +17,7 @@ This pattern repeats across industries. In healthcare, AI excels at analyzing me
 
 This shift toward human determination of "what" requires a fundamental transformation in how individuals approach their work. In essence, AI is turning everyone into managers. Just as traditional managers delegate execution to team members while retaining responsibility for direction and strategy, knowledge workers increasingly need to delegate execution to AI while maintaining control over objectives and vision.
 
-This transition demands what we call a "managerial mindset"—the ability to define clear objectives, break complex tasks into component parts, evaluate outputs against strategic goals, balance efficiency with quality, and think systemically about unintended consequences. These capabilities have traditionally been developed through years of management experience. Now, they're becoming essential for individual contributors across industries. 
+This transition demands  a "managerial mindset"—the ability to define clear objectives, break complex tasks into component parts, evaluate outputs against strategic goals, balance efficiency with quality, and think systemically about unintended consequences. These capabilities have traditionally been developed through years of management experience. Now, they're becoming essential for individual contributors across industries. 
 
 The most successful professionals won't be those who execute tasks most efficiently, but those who define problems most effectively and leverage AI to implement solutions. For example, marketing professionals who once spent hours crafting social media posts must now think more strategically about audience segments, messaging strategy, and brand consistency, while delegating content generation to AI tools. The value shifts from copywriting skill to strategic judgment.
 
@@ -59,7 +59,7 @@ These developers embody the human element in AI-enhanced work: they contribute n
 
 For investors and business leaders, the "what-how" framework offers valuable guidance for capital allocation. Organizations most likely to succeed in an AI-enhanced economy are those that invest in developing strategic capabilities throughout the organization, create clear interfaces between human judgment and AI execution, and build cultures that value strategic thinking at all levels.
 
-Companies that emphasize full automation without preserving space for human judgment typically achieve short-term cost savings at the expense of long-term competitiveness. The most successful implementations maintain what we've called "human centrality"—keeping humans at the center of strategic decision-making while leveraging AI for execution.
+Companies that emphasize full automation without preserving space for human judgment typically achieve short-term cost savings at the expense of long-term competitiveness. The most successful implementations maintain "human centrality"—keeping humans at the center of strategic decision-making while leveraging AI for execution.
 
 The human element in these successful companies isn't peripheral—it's central to their competitive advantage. In an age where technical execution increasingly becomes commoditized through AI, human judgment about strategic direction becomes the primary differentiator between organizations.
 

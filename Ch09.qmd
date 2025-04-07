@@ -3,9 +3,6 @@ title: "Following the Money"
 subtitle: "Investment Implications of the Enhancement Thesis: Identifying winners and losers in an AI-enhanced economy"
 ---
 
-![Total returns of SOXX vs S&P 500, 2020-2025, showing semiconductor outperformance](_resources/images/Ch09-images/soxx-vs-sp500.svg)
-
-
 The investment implications of artificial intelligence extend far beyond the obvious beneficiaries in Silicon Valley. While companies like Nvidia have captured headlines with astronomical returns, the real opportunity lies in identifying businesses that effectively leverage AI to enhance rather than replace human capabilities. This nuanced view requires looking past the hype to understand how AI actually creates sustainable competitive advantages.
 
 
@@ -37,7 +34,7 @@ Companies that effectively navigate the what-how divide demonstrate distinct per
 
 First, productivity metrics reveal the efficiency gains from appropriate division of labor between humans and AI. Rather than simply automating to reduce headcount, successful implementations redirect human cognitive capacity toward higher-value activities while leveraging AI for routine execution. This shows up in metrics like revenue per employee, which typically increases 30-40% within 3-5 years of effective implementation—significantly outpacing the 15-20% improvements from pure automation approaches.
 
-Consider how Bloomberg has evolved its financial terminal business. Rather than simply automating financial analysis, they've used AI to process vast amounts of market data while keeping humans focused on identifying relevant patterns and developing investment insights. The result is dramatically higher productivity per analyst while maintaining the high-touch service that justifies premium pricing.
+The way that Bloomberg has evolved its financial terminal business is a case in point.  Rather than simply automating financial analysis, they've used AI to process vast amounts of market data while keeping humans focused on identifying relevant patterns and developing investment insights. The result is dramatically higher productivity per analyst while maintaining the high-touch service that justifies premium pricing.
 
 Second, capital efficiency improves through more targeted technology investments. Companies that understand the what-how distinction tend to make smaller, more focused AI investments with clearer payback periods rather than massive infrastructure projects with uncertain returns. This shows up in metrics like return on invested capital (ROIC), which typically remains 800-1200 basis points above cost of capital for companies pursuing balanced enhancement strategies—roughly double the premium for those focused solely on automation.
 

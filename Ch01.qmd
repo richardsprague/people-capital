@@ -9,7 +9,7 @@ This story isn’t an outlier. It’s a blueprint. From looms to assembly lines,
 
 This chapter sets the stage for that argument. We’ll unpack why the replacement narrative keeps falling short, explore where AI shines and where it stumbles, and show how this shift toward enhancement is already reshaping industries. The goal isn’t to dismiss AI’s potential or its disruptions—it’s to reframe the conversation around what it can realistically do alongside us.
 
-**Beyond Replacement: The Historical Lens**
+## Beyond Replacement: The Historical Lens
 
 The ATM tale is a good starting point because it’s concrete. Between 1970 and 2010, teller jobs grew from about 500,000 to 600,000 in the U.S., even as ATMs ballooned from a handful to over 400,000. Banks didn’t ditch humans; they leaned on machines to handle the rote stuff—counting bills, processing checks—freeing tellers to tackle thornier tasks like mortgage advice or fraud disputes. The tech didn’t erase the human touch; it made it more valuable by stripping away the mundane.
 
@@ -19,7 +19,7 @@ Fast-forward to the 21st century, and the script holds. Amazon’s warehouses bu
 
 These examples cut through the hype. Technology doesn’t follow a straight line from human to machine. It zigzags, finding new ways to mesh with what we’re good at. AI, for all its dazzle, fits this mold—not breaks it.
 
-**The Hype and the Hope: AI’s Modern Moment**
+## The Hype and the Hope: AI’s Modern Moment
 
 Enter ChatGPT in late 2022. Overnight, AI went from a buzzword to a living room guest. It could write poems, debug code, even fake a job interview. CEOs scribbled AI-first strategies, stocks like NVIDIA spiked, and headlines swung between marvel and panic. Some saw a golden age dawning—AI as the ultimate problem-solver. Others braced for collapse—white-collar jobs vaporized by algorithms. The truth, as usual, is less dramatic but more interesting.
 
@@ -29,7 +29,7 @@ This isn’t a knock on CoPilot. It’s a clue. AI’s strength lies in crunchin
 
 Even in creative turf, the story tracks. Recall the 2021 bid to finish Beethoven’s 10th symphony with AI. A team fed it every note Beethoven ever wrote, plus his early sketches, and let it compose. The result debuted in Bonn to fanfare—and fell flat. Critics like Jan Swafford pegged it right: it mimicked Beethoven’s style but lacked his fire. The notes aligned, but the soul didn’t stir. Listeners craved the human behind the music—not just the sound, but the struggle and spark that made it real. AI could assemble; it couldn’t inspire.
 
-**Where AI Shines, Where It Stalls**
+## Where AI Shines, Where It Stalls
 
 To get why this keeps happening, we need to peek under AI’s hood—just enough to see its edges. Today’s systems, like the large language models powering ChatGPT, are pattern machines. They’re trained on mountains of text, images, or whatever you feed them, then predict what comes next based on stats and probabilities. Chess-playing AI doesn’t “think” like a grandmaster—it calculates moves at a scale humans can’t touch. Medical imaging AI doesn’t “diagnose”—it flags oddities in X-rays faster than a radiologist’s eye.
 
@@ -39,7 +39,7 @@ Humans bring what AI can’t: context, curiosity, agency. A doctor doesn’t jus
 
 This gap isn’t a flaw to fix—it’s a feature to harness. AI’s best trick isn’t autonomy; it’s augmentation. Starbucks didn’t axe baristas for robot brewers. In 2022, it rolled out AI to fine-tune inventory and staffing, cutting waste and wait times. Baristas got breathing room to chat with regulars, upsell pastries, build loyalty—the human stuff that drives profit. Sales climbed, not because machines took over, but because they cleared space for people to shine.
 
-**The Enhancement Edge: Real-World Proof**
+## The Enhancement Edge: Real-World Proof
 
 Let’s widen the lens. In healthcare, AI’s diagnostic chops are transforming clinics—but not by sidelining doctors. At Mount Sinai in New York, AI systems now screen mammograms, catching tumors radiologists might overlook. Yet the final call stays human. Why? Because patients don’t just need a scan—they need a conversation, a plan, someone to trust. A 2023 trial showed AI-assisted doctors caught 20% more cancers than AI or humans alone. The combo wins, not the machine solo.
 
@@ -47,7 +47,7 @@ In logistics, UPS leaned on AI to optimize delivery routes, slashing fuel costs 
 
 Even language translation, where AI’s made huge strides, leans on this dance. Google Translate can churn through 100 languages, but for legal contracts or poetry, human linguists step in. A 2023 study pitted AI against pros on French-to-English novels; the AI nailed grammar but flubbed idioms and tone. Humans caught the culture—AI just caught the words.
 
-**Reframing the Future**
+## Reframing the Future
 
 So why do we keep buying the replacement myth? Partly, it’s the dazzle—AI’s feats feel like magic, so we assume it’s boundless. Partly, it’s fear—disruption’s real, and jobs *will* shift. But history whispers a steadier truth: tech amplifies us when we wield it right. The ATM didn’t kill tellers; it multiplied branches. CAD didn’t end architects; it fueled bolder buildings. AI won’t erase work—it’ll reshape it, pushing us toward what machines can’t touch: judgment, empathy, imagination.
 
@@ -57,7 +57,7 @@ For investors, this flips the script. Forget betting on AI to usurp humans—loo
 
 The chapters ahead dig deeper. We’ll unpack AI’s guts (Chapter 2), spotlight what humans uniquely bring (Chapter 3), and map how this plays out across industries (Chapters 5-9). But the thread starts here: the future isn’t AI alone—it’s us, enhanced. That’s not a guess. It’s what the evidence, from ATMs to algorithms, keeps shouting.
 
-**The Current Thing**
+## The Current Thing
 
 ChatGPT’s 2022 debut lit a match under AI hype. Suddenly, everyone had a taste—students cheating essays, coders auto-fixing bugs, execs dreaming of leaner payrolls. Stock tickers glowed green; pundits split between rapture and dread. But peel back the buzz, and the pattern’s familiar. At a Midwest ad agency, an AI tool churned out taglines in 2023—snappy, sure, but clients balked. They wanted ideas that *felt* human, not just sounded clever. The agency didn’t ditch copywriters; it paired them with AI to brainstorm faster, then refine with soul.
 
