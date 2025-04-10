@@ -1,7 +1,11 @@
 ---
 title: "The Human Edge"
-subtitle: "Judgment in an Age of Algorithms"
 ---
+
+
+<center>Judgment in an Age of Algorithms</center>
+
+
 
 In an era increasingly defined by algorithmic processing, the question of human judgment's unique value becomes not merely philosophical but practical. The rapid advancement of artificial intelligence has created a peculiar paradox: as machines become more capable of executing sophisticated tasks, the most distinctly human capacities become more valuable, not less. To understand this paradox requires careful examination of what constitutes judgment and why it remains stubbornly resistant to computational replication.
 

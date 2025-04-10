@@ -1,5 +1,5 @@
 ---
-title: "The Human Element in Creative Work"
+title: "The Human Exception in Creative Work"
 subtitle: "Lessons from Beethoven's Tenth: Why 'seeing the human doing it' remains crucial across industries"
 ---
 
@@ -10,6 +10,7 @@ We now have mentioned the Beethoven experiment several times because it is at th
 Beethoven left the world with nine completed symphonies and a handful of musical sketches for a tenth. For centuries, these fragments tantalized musicians and scholars, hinting at what might have been. The AI team at Playform AI saw an opportunity: they would train their models on Beethoven's complete works, use the sketches as a foundation, and generate what they believed would be a plausible completion of the Tenth Symphony.
 
 On paper, this appeared to be an ideal AI project. The team had:
+
 - A complete corpus of Beethoven's work for training
 - Actual sketches from the composer for the specific piece
 - Access to leading experts in both music and AI
@@ -70,6 +71,6 @@ As AI capabilities continue to advance, maintaining this balance between human a
 - Maintain transparency about the role of AI in their processes
 - Invest in developing human creativity and judgment alongside AI capabilities
 
-The lesson from Beethoven's Tenth is clear: technical proficiency, even at a very high level, is not enough. The human element – the visible struggle for excellence, the exercise of judgment, the emotional connection – remains irreplaceable. This insight should guide how we implement AI across industries and applications.
+The lesson from Beethoven's Tenth is clear: technical proficiency, even at a very high level, is not enough. The human exception – the visible struggle for excellence, the exercise of judgment, the emotional connection – remains irreplaceable. This insight should guide how we implement AI across industries and applications.
 
 Success in an AI-enhanced world doesn't mean replacing human creativity and judgment with artificial intelligence. Instead, it means finding ways to use AI that preserve and amplify the human elements that create true value. The goal should be to let AI handle the technical "how" while humans focus on the essential "what" – the judgment, creativity, and authentic connection that only humans can provide.

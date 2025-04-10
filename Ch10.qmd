@@ -27,7 +27,7 @@ Business leaders must shift their AI implementation strategies away from automat
 
 Goldman Sachs has embraced this approach in its investment research operations. Rather than replacing analysts with automated systems, they've implemented AI tools that process vast amounts of financial data, identifying patterns and anomalies for human review. The AI handles the computational complexity (the "how"), while human analysts maintain responsibility for interpretation and strategic recommendations (the "what"). This has allowed the firm to increase both the breadth and depth of its research while maintaining the human judgment clients value.
 
-The human element in this example isn't a superficial addition—it's fundamental to the system's success. By maintaining human determination of what matters in financial analysis, Goldman preserves the contextual understanding and strategic judgment that clients truly value, while leveraging AI's computational capabilities to enhance analytical depth.
+The human exception in this example isn't a superficial addition—it's fundamental to the system's success. By maintaining human determination of what matters in financial analysis, Goldman preserves the contextual understanding and strategic judgment that clients truly value, while leveraging AI's computational capabilities to enhance analytical depth.
 
 ## Educational Transformation
 
