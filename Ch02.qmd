@@ -7,9 +7,9 @@ subtitle: "Demystifying AI's capabilities and limitations from an implementer's 
 
 ## The Emperor's New Statistics
 
-Artificial intelligence is a broad field which long-time researchers often jokingly define as "anything computers can't do yet." From early grammar checkers to chess to facial recognition, many features that are now routine were once considered AI. No doubt the same will eventually be said of the new generation of large language models (LLMs), the more precise term to describe the impressive new tools that include ChatGPT, Claude, and Gemini.
+Artificial intelligence\index{AI concepts!artificial intelligence} is a broad field which long-time researchers often jokingly define as "anything computers can't do yet." From early grammar checkers to chess to facial recognition, many features that are now routine were once considered AI. No doubt the same will eventually be said of the new generation of large language models\index{AI concepts!large language models} (LLMs), the more precise term to describe the impressive new tools that include ChatGPT\index{case studies!ChatGPT}, Claude, and Gemini.
 
-Under the hood, these systems are less magical than they first appear. Today's LLMs are based on a straightforward application of an optimization algorithm called Generative Pre-trained Transformer (GPT) invented by Google researchers in 2017. While the implementation details involve complex mathematics, the core concept is surprisingly simple: predict what words are most likely to come next in a sequence based on patterns observed in vast amounts of text.
+Under the hood, these systems are less magical than they first appear. Today's LLMs are based on a straightforward application of an optimization algorithm called Generative Pre-trained Transformer (GPT) invented by Google\index{case studies!Google} researchers in 2017. While the implementation details involve complex mathematics, the core concept is surprisingly simple: predict what words are most likely to come next in a sequence based on patterns observed in vast amounts of text.
 
 You can think of LLMs as massively optimized and expanded versions of the auto-complete feature your smartphone has offered for years. Instead of proposing the next word or two, these models can generate full sentences, paragraphs, books, and on and on without limit. Their power comes from the GPT optimization that lets them take advantage of the massively-parallel architecture of graphic processing units (GPUs). Just as a graphical image can be broken into smaller pixels, each manipulated in parallel, LLMs break text documents into characters (or "tokens") that are processed simultaneously within the GPU.
 
@@ -21,9 +21,9 @@ The GPT algorithm has one critical limitation that explains many of its failures
 
 Think of how you would solve a Sudoku puzzle. You might place a number in a cell, then work through several more cells before realizing your initial choice led to a contradiction. No problem—you backtrack, erase the number, and try a different approach. This recursive thinking process is fundamental to human problem-solving. But LLMs cannot do this. They generate text one token at a time, with no ability to revise earlier decisions based on later realizations.
 
-This limitation explains why LLMs struggle with tasks that humans find relatively straightforward. They cannot do Sudoku, or handle chess positions not covered in their training data. Similarly, although they may appear to evaluate potential investment scenarios, they are merely generating plausible-sounding text based on patterns they've observed in financial discussions. They cannot truly consider alternative futures or change their analysis midstream.
+This limitation explains why LLMs struggle with tasks that humans find relatively straightforward. They cannot do Sudoku, or handle chess positions not covered in their training data\index{AI concepts!training data}. Similarly, although they may appear to evaluate potential investment scenarios, they are merely generating plausible-sounding text based on patterns they've observed in financial discussions. They cannot truly consider alternative futures or change their analysis midstream.
 
-This lack of genuine reasoning capability is why it would be wise to take AI predictions with considerable caution. Because they have no concept of imagining how a future situation might change current plans, they cannot truly engage in the kind of counterfactual thinking that underpins human judgment.
+This lack of genuine reasoning capability is why it would be wise to take AI predictions with considerable caution. Because they have no concept of imagining how a future situation might change current plans, they cannot truly engage in the kind of counterfactual thinking that underpins human judgment\index{human-AI relationship!human judgment}.
 
 ## Inside the Training Process
 
@@ -33,7 +33,7 @@ Thanks to the clever, time-saving shortcut discovered in the 2017 GPT algorithm,
 
 Once trained, the LLM is a statistical prediction engine that knows the most likely word, phrase, or paragraphs that follow any given input. It knows, for example, that the phrase "Mary had a little" is highly likely to be followed by "lamb" or even the entire phrase "Its fleece was white as snow." It will apply the same statistical completion algorithm to any snippet of text, including those that look like questions, where the most likely "completion" is the answer to the question. The statistically most likely way to complete the phrase "what is 1 + 1?" is "2."
 
-The final LLM consists of billions of "parameters," finely-tuned statistical values created during the training process. But generating the response to your input requires similar levels of prodigious machine power. In fact, every character you type into the ChatGPT input box, as well as every character it types back, goes through many billions of computations. That slight delay you see as each character comes back at your terminal is not a clever UX (user experience) effect intended to appear like a human is typing the answer. In fact, the characters come out slowly because of the untold levels of computing power required to generate each one of them. Multiply this by the many millions of simultaneous ChatGPT users and you can understand why state-of-the-art LLMs are phenomenally expensive to operate.
+The final LLM consists of billions of "parameters\index{AI concepts!parameters}," finely-tuned statistical values created during the training process. But generating the response to your input requires similar levels of prodigious machine power. In fact, every character you type into the ChatGPT input box, as well as every character it types back, goes through many billions of computations. That slight delay you see as each character comes back at your terminal is not a clever UX (user experience) effect intended to appear like a human is typing the answer. In fact, the characters come out slowly because of the untold levels of computing power required to generate each one of them. Multiply this by the many millions of simultaneous ChatGPT users and you can understand why state-of-the-art LLMs are phenomenally expensive to operate.
 
 ## What Does the Training Data Include?
 
@@ -72,7 +72,7 @@ Understanding what LLMs cannot do is as important as appreciating what they can 
 
 1. **No Understanding or Consciousness**: LLMs process patterns without understanding meaning. They have no consciousness, beliefs, desires, or intentions. They cannot truly understand concepts like justice, beauty, or truth—they can only mimic how humans talk about these concepts.
 
-2. **No Backtracking or Planning**: As mentioned earlier, LLMs cannot revise earlier parts of their generation based on later realizations. They cannot truly plan ahead or engage in the kind of recursive thinking that humans employ naturally.
+2. **No Backtracking\index{AI concepts!backtracking} or Planning**: As mentioned earlier, LLMs cannot revise earlier parts of their generation based on later realizations. They cannot truly plan ahead or engage in the kind of recursive thinking that humans employ naturally.
 
 3. **No Reality Grounding**: LLMs have no direct access to physical reality. Their knowledge comes entirely from text and images in their training data, not from embodied experience in the world. They cannot verify facts against reality, only against patterns in their training data.
 
@@ -96,7 +96,7 @@ The most successful implementations of AI technology recognize the complementary
 
 Humans, meanwhile, bring fundamentally different strengths to the table. We understand context and meaning in ways that transcend statistical correlation. We make ethical judgments that require balancing competing values and considering impacts that may not be quantifiable. Our ability to think recursively and counterfactually—to imagine "what if" scenarios and revise our thinking—allows us to navigate novel situations with a flexibility that AI cannot match. Perhaps most importantly, humans can create truly novel concepts and approaches, and adapt to unprecedented situations by drawing on embodied experience and cross-domain knowledge.
 
-By designing systems that leverage these complementary capabilities, organizations can achieve outcomes superior to what either humans or AI could accomplish alone. A human financial analyst with AI assistance, for instance, can process market data at unprecedented scale while maintaining the judgment needed to contextualize that data within broader economic and political realities. This synergy of human and artificial intelligence is the essence of the enhancement thesis we explore throughout this book.
+By designing systems that leverage these complementary capabilities, organizations can achieve outcomes superior to what either humans or AI could accomplish alone. A human financial analyst with AI assistance, for instance, can process market data at unprecedented scale while maintaining the judgment needed to contextualize that data within broader economic and political realities. This synergy of human and artificial intelligence is the essence of the enhancement\index{human-AI relationship!enhancement} thesis we explore throughout this book.
 
 ## The Implications: Why This Matters
 
@@ -104,12 +104,12 @@ Understanding what AI actually does—and what it doesn't do—has profound impl
 
 This understanding helps explain why purely automated approaches often disappoint, while enhancement approaches succeed. Automated systems that attempt to replace human judgment entirely run up against the fundamental limitations of pattern matching. Enhancement approaches that combine AI's computational power with human judgment and creativity can deliver superior results.
 
-For investors, this insight suggests focusing on companies that understand the complementary nature of human and artificial intelligence rather than those promising full automation. For business leaders, it means designing implementation strategies that augment rather than replace human capabilities. And for workers, it means developing the distinctively human skills that AI cannot replicate.
+For investors, this insight suggests focusing on companies that understand the complementary nature of human and artificial intelligence rather than those promising full automation\index{AI concepts!automation}. For business leaders, it means designing implementation strategies that augment rather than replace human capabilities\index{human-AI relationship!human capabilities}. And for workers, it means developing the distinctively human skills that AI cannot replicate.
 
 ## Where We Go From Here
 
 As AI technologies continue to advance, the boundary between what they can and cannot do will shift. Future systems will likely overcome some of the limitations we've discussed, potentially enabling more sophisticated reasoning and planning. However, the fundamental distinction between statistical pattern matching and genuine understanding remains, and with it, the continued importance of human judgment.
 
-In the chapters ahead, we'll explore how this understanding of AI's capabilities and limitations translates into practical implementation strategies across industries. We'll examine the "what versus how" distinction that guides effective human-AI collaboration, the philosophical dimensions of human judgment, and the investment implications of the enhancement thesis.
+In the chapters ahead, we'll explore how this understanding of AI's capabilities and limitations translates into practical implementation strategies across industries. We'll examine the "what versus how" distinction that guides effective human-AI collaboration\index{human-AI relationship!human-AI collaboration}, the philosophical dimensions of human judgment, and the investment implications of the enhancement thesis.
 
 By grounding our approach in a clear-eyed understanding of what AI actually does, we can move beyond both the hype and the fear to develop strategies that truly enhance human capabilities rather than attempting to replace them.

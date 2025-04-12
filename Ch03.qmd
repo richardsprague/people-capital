@@ -4,7 +4,7 @@ subtitle: "AI's Real Impact on Knowledge Work"
 ---
 
 
-Until recently, career success in knowledge work depended heavily on mastering "how" skills - knowing how to build a compelling PowerPoint, how to structure a financial model, or how to write efficient code. But as AI systems become more capable at these technical tasks, the competitive advantage is shifting dramatically toward people who know "what" needs to be done - those who can identify the right problems to solve and strategies to pursue.
+Until recently, career success in knowledge work depended heavily on mastering "how" skills - knowing how to build a compelling PowerPoint, how to structure a financial model, or how to write efficient code. But as AI systems become more capable at these technical tasks, the competitive advantage\index{economic!competitive advantage} is shifting dramatically toward people who know "what" needs to be done - those who can identify the right problems to solve and strategies to pursue.
 
 This fundamental shift from "how" to "what" has profound implications for businesses, careers, and investment opportunities. Let's explore why this transformation is happening and what it means for different stakeholders.
 
@@ -24,14 +24,14 @@ These specialists developed their skills through years of practice and training.
 ## AI's Disruption of "How"
 
 
-Large language models and other AI tools are rapidly getting better at many of these "how" tasks:
+Large language models\index{AI concepts!large language models} and other AI tools are rapidly getting better at many of these "how" tasks:
 
-- ChatGPT can write basic code in multiple languages
+- ChatGPT\index{case studies!ChatGPT} can write basic code in multiple languages
 - Midjourney can generate sophisticated images
 - Translation tools are approaching human-level quality
 - AI assistants can create presentations and documentation
 
-This capability is expanding quickly. Tasks that seemed immune to automation just a few years ago are now being handled competently by AI systems. And unlike human specialists who may take years to master new skills, AI systems can be rapidly retrained or fine-tuned for new capabilities.
+This capability is expanding quickly. Tasks that seemed immune to automation\index{AI concepts!automation} just a few years ago are now being handled competently by AI systems. And unlike human specialists who may take years to master new skills, AI systems can be rapidly retrained or fine-tuned for new capabilities.
 
 ## The Rise of "What" Skills
 
@@ -46,7 +46,7 @@ As AI handles more of the “how,” competitive advantage shifts to people who 
 These “what” decisions require capabilities that current AI systems fundamentally lack:
 
 
-**Pattern Recognition Across Domains** Humans can notice subtle patterns and draw insights across seemingly unrelated fields. A business leader might see parallels between consumer behavior in fashion and trends in enterprise software, leading to novel strategic insights. Current AI
+**Pattern Recognition\index{AI concepts!pattern recognition} Across Domains** Humans can notice subtle patterns and draw insights across seemingly unrelated fields. A business leader might see parallels between consumer behavior in fashion and trends in enterprise software, leading to novel strategic insights. Current AI
 systems, despite their broad training, struggle to make these creative connections in meaningful ways.
 
 **Judgment Under Uncertainty** Many crucial business decisions involve incomplete information and conflicting priorities. Experienced leaders develop judgment about which risks are worth taking and which tradeoffs make sense. This type of judgment emerges from years of seeing both successes and failures firsthand - something AI systems cannot truly replicate.
@@ -91,11 +91,11 @@ The key to understanding AI's role in authorship lies in recognizing the distinc
 
 1.  The initial phase - deciding subject matter and scope, aka the     "what" phase --- remains fundamentally human. While AI can help     brainstorm ideas or identify underexplored topics, the essential     creative spark and purpose must come from human intention. This     reflects a broader truth about AI: it excels at processing existing     patterns but struggles to generate truly novel directions.
 
-2.  The next phase --- outlining the subject into smaller, related     topics that make a coherent whole --- demonstrates the potential for     human-AI collaboration. AI can quickly generate comprehensive topic     structures, but human expertise is crucial for identifying gaps,     inconsistencies, or areas requiring special emphasis. This interplay     between AI's broad pattern recognition and human domain knowledge     creates stronger frameworks than either could achieve alone.
+2.  The next phase --- outlining the subject into smaller, related     topics that make a coherent whole --- demonstrates the potential for     human-AI collaboration\index{human-AI relationship!human-AI collaboration}. AI can quickly generate comprehensive topic     structures, but human expertise is crucial for identifying gaps,     inconsistencies, or areas requiring special emphasis. This interplay     between AI's broad pattern recognition and human domain knowledge     creates stronger frameworks than either could achieve alone.
 
 3.  The writing phase is where AI's "bulldozer" capabilities shine.     Instead of laboriously crafting individual sentences, authors can     use AI to generate substantial blocks of coherent text. This     dramatically accelerates the initial draft process. However, like     rough-graded earth, this AI-generated text requires careful     refinement to achieve its final form.
 
-4.  The refinement phase is where human judgment becomes paramount.     Authors must shape the AI-generated content to maintain consistent     voice, ensure logical flow, and preserve the book's core purpose.     This requires understanding nuances of audience expectations and     subject matter that current AI systems cannot fully grasp.
+4.  The refinement phase is where human judgment\index{human-AI relationship!human judgment} becomes paramount.     Authors must shape the AI-generated content to maintain consistent     voice, ensure logical flow, and preserve the book's core purpose.     This requires understanding nuances of audience expectations and     subject matter that current AI systems cannot fully grasp.
 
 This iterative process of generation and refinement continues until the project achieves its goals - another judgment that requires human evaluation. The result is neither purely AI-generated nor traditionally human-authored, but rather a new form of hybrid creativity that leverages the strengths of both.
 
@@ -105,19 +105,19 @@ This suggests a future where successful authors are those who master the art of 
 
 The key question is no longer whether AI will replace human authors, but how it will transform the authorship process. The answer lies in recognizing that while AI can move mountains of words, humans must still decide which mountains to move and how to shape the resulting landscape.
 
-This transformation parallels broader changes in knowledge work. As AI handles more routine cognitive tasks, human value increasingly derives from higher-order skills like judgment, creativity, and strategic thinking. The greatest rewards of authorship, as in many professional fields, will accrue to those who can effectively combine human insight with AI capabilities.
+This transformation parallels broader changes in knowledge work. As AI handles more routine cognitive tasks, human value increasingly derives from higher-order skills like judgment, creativity, and strategic thinking\index{human-AI relationship!strategic thinking}. The greatest rewards of authorship, as in many professional fields, will accrue to those who can effectively combine human insight with AI capabilities.
 
 The rise of AI authors doesn't diminish the value of books but rather changes how they're created. The essential human elements - purpose, judgment, refinement - remain crucial, even as AI dramatically expands our capability to generate and process information. The result may be not just better books, but new forms of knowledge sharing that we're only beginning to imagine.
 
 
 ## More examples
 
-### Software Development: Beyond Code Generation
+### Software Development\index{software development}: Beyond Code Generation
 
 
 The construction industry provides useful analogies for understanding AI's impact on software development. Just as modern construction sites use both automated machinery and skilled human workers, software development is evolving into a hybrid process where AI handles routine coding tasks while humans focus on architecture and design decisions.
 
-Think of a typical software project. Traditional development required writing every line of code manually, like building a house brick by brick. Now, AI coding assistants like GitHub Copilot or Amazon CodeWhisperer can generate entire functions or modules automatically, similar to how prefabricated components accelerated construction. These AI tools excel at producing standard elements - authentication systems, database queries, API endpoints - just as manufacturing automation excels at producing standardized building materials.
+Think of a typical software project. Traditional development required writing every line of code manually, like building a house brick by brick. Now, AI coding assistants like GitHub Copilot or Amazon\index{case studies!Amazon} CodeWhisperer can generate entire functions or modules automatically, similar to how prefabricated components accelerated construction. These AI tools excel at producing standard elements - authentication systems, database queries, API endpoints - just as manufacturing\index{manufacturing} automation excels at producing standardized building materials.
 
 However, like construction projects, software development involves more than assembling standard components. A successful project requires understanding user needs, designing intuitive interfaces, ensuring security, and maintaining long-term reliability. These higher-level decisions remain firmly in human territory.
 
@@ -135,7 +135,7 @@ Looking ahead, successful software development will likely become increasingly c
 
 This evolution parallels broader trends in professional work. Just as power tools didn't eliminate the need for skilled carpenters but changed how they work, AI won't eliminate software developers but will transform their role. The most valuable developers will be those who can effectively direct AI tools while maintaining high-level system understanding.
 
-The implications for software education and training are significant. Future developers will need less emphasis on memorizing syntax and more focus on system design, architecture, and AI collaboration skills. This mirrors how modern architectural education focuses less on manual drafting and more on design principles and computer-aided tools.
+The implications for software education\index{education} and training are significant. Future developers will need less emphasis on memorizing syntax and more focus on system design, architecture, and AI collaboration skills. This mirrors how modern architectural education focuses less on manual drafting and more on design principles and computer-aided tools.
 
 However, the fundamental role of human creativity and judgment remains unchanged. Just as beautiful buildings require human vision despite advanced construction technology, great software requires human insight despite sophisticated AI tools. The key is understanding AI as an enabler of human creativity rather than its replacement. AI working alone can be competent at creating an adequate building that meets the programmatic requirements laid out by its developers, but a truly great building will still require human input and humans' ability to push the frontier of creativity.
 
@@ -174,7 +174,7 @@ This suggests that investment analysis is entering a new phase where success dep
 In this new paradigm, the measure of an analyst shifts from computational speed to the effectiveness of their human-AI collaboration in identifying truly attractive investments. The manufacturing industry's evolution from manual production to technology-enhanced craftsmanship provides a roadmap for this transformation.
 
 
-### AI and Healthcare: Beyond Pattern Recognition
+### AI and Healthcare\index{healthcare}: Beyond Pattern Recognition
 
 The evolution of AI in healthcare parallels modern manufacturing quality control, where automated systems handle routine inspections while skilled technicians focus on complex problems requiring human judgment. Similarly, healthcare is becoming a hybrid system where AI processes medical data while human doctors focus on patient relationships and complex medical decisions.
 
@@ -213,7 +213,7 @@ For investors, the what-how framework offers valuable guidance for evaluating AI
 3. Build solutions that maintain appropriate human oversight while leveraging AI capabilities.
 4. Design business models that recognize and reward uniquely human contributions.
 
-By contrast, companies that focus exclusively on automation without considering the continued importance of human judgment will likely struggle to deliver sustainable value. The most successful AI implementations will be those that augment rather than replace human capabilities, allowing people to focus on the high-value what decisions where they maintain a durable advantage.
+By contrast, companies that focus exclusively on automation without considering the continued importance of human judgment will likely struggle to deliver sustainable value. The most successful AI implementations will be those that augment rather than replace human capabilities\index{human-AI relationship!human capabilities}, allowing people to focus on the high-value what decisions where they maintain a durable advantage.
 
 This perspective offers a useful corrective to the common investor tendency to overvalue pure automation plays. The history of technology adoption suggests that approaches that enhance rather than replace human capabilities typically deliver more sustainable value over time.
 
@@ -229,13 +229,13 @@ For educational institutions, the what-how divide suggests the need for fundamen
 For policymakers, this framework offers a more nuanced understanding of AI’s impact on employment and economic opportunity. Rather than focusing exclusively on potential job displacement, policy approaches should consider how to facilitate the transition toward work that emphasizes uniquely human strategic capabilities while ensuring that the benefits of AI-driven productivity gains are broadly shared.
 
 
-## Integration with Enhancement Thesis
+## Integration with Enhancement\index{human-AI relationship!enhancement} Thesis
 
 The what-how framework aligns perfectly with our core thesis that AI will enhance rather than replace human capabilities across industries. By automating routine implementation tasks, AI frees human cognitive capacity for higher-level strategic thinking—the domain where human judgment maintains a durable advantage. This represents not replacement but enhancement of human potential.
 
-This perspective also explains why purely automated approaches often disappoint. When AI systems operate without appropriate human direction and oversight, they may execute flawlessly within their parameters while completely missing the broader context that gives their outputs meaning and value. The most successful implementations maintain humans “in the loop” precisely because human judgment about what matters cannot be delegated to automated systems.
+This perspective also explains why purely automated approaches often disappoint. When AI systems operate without appropriate human direction and oversight, they may execute flawlessly within their parameters\index{AI concepts!parameters} while completely missing the broader context that gives their outputs meaning and value. The most successful implementations maintain humans “in the loop” precisely because human judgment about what matters cannot be delegated to automated systems.
 
-In the case of full self-driving technology, which we’ll explore more fully in later chapters, companies like Tesla have collected unprecedented amounts of driving data and developed increasingly sophisticated systems for navigating complex environments. Yet as robotics pioneer Rodney Brooks has observed, these systems still struggle with the contextual judgment that experienced human drivers exercise effortlessly.
+In the case of full self-driving technology, which we’ll explore more fully in later chapters, companies like Tesla\index{case studies!Tesla} have collected unprecedented amounts of driving data and developed increasingly sophisticated systems for navigating complex environments. Yet as robotics pioneer Rodney Brooks has observed, these systems still struggle with the contextual judgment that experienced human drivers exercise effortlessly.
 
 A human driver approaching a neighborhood with cars parked tightly on both sides naturally slows down, recognizing the increased risk of children darting into the street. This judgment doesn’t derive from explicit rules but from a holistic understanding of context that integrates multiple factors—some explicit, others tacit. Autonomous systems may eventually replicate this behavior through sophisticated pattern recognition, but they cannot independently determine which factors deserve attention without human direction.
 
@@ -246,7 +246,7 @@ The what-how divide provides a powerful framework for understanding AI’s true 
 
 This transformation presents both challenges and opportunities. Organizations and individuals that continue to focus exclusively on implementation skills will find their competitive position eroding as AI systems increasingly automate these functions. Those who develop the strategic judgment to determine what is worth doing—and the ability to direct AI systems effectively toward these ends—will thrive in an AI-enhanced economy.
 
-The what-how framework aligns with our broader thesis that successful AI implementation requires keeping humans “in the loop.” Not because of temporary technical limitations that will eventually be overcome, but because of fundamental differences between human and artificial intelligence. The most valuable human contributions have always involved more than technical execution—they reflect purpose, meaning, and judgment that remain uniquely human even as AI capabilities advance.
+The what-how framework aligns with our broader thesis that successful AI implementation requires keeping humans “in the loop.” Not because of temporary technical limitations that will eventually be overcome, but because of fundamental differences between human and artificial intelligence\index{AI concepts!artificial intelligence}. The most valuable human contributions have always involved more than technical execution—they reflect purpose, meaning, and judgment that remain uniquely human even as AI capabilities advance.
 
 In the next chapter, we’ll explore these philosophical dimensions more deeply, examining why understanding the nature of human intelligence is crucial for designing effective human-AI collaborations. By recognizing both the capabilities and limitations of artificial intelligence, we can develop approaches that truly enhance human potential rather than attempting to replace it.
 
@@ -257,27 +257,27 @@ In the next chapter, we’ll explore these philosophical dimensions more deeply,
 
 The current discourse on AI's impact falls into a tiresome and inaccurate binary: either AI will replace human workers entirely, or its effects will be marginal. Both narratives miss the fundamental transformation underway. What we're witnessing is not wholesale replacement but a profound shift in the nature of human contribution—a redistribution of value across the knowledge work spectrum that redefines which human capabilities command a premium.
 
-This transformation becomes apparent when we distinguish between two fundamental aspects of any intellectual task: determining *what* needs to be done versus executing *how* to do it. This distinction, while seemingly straightforward, carries profound implications for the future of work, business strategy, and investment that extend far beyond the simplistic replacement narrative dominating public discourse.
+This transformation becomes apparent when we distinguish between two fundamental aspects of any intellectual task: determining *what* needs to be done versus executing *how* to do it. This distinction, while seemingly straightforward, carries profound implications for the future of work\index{policy!future of work}, business strategy, and investment that extend far beyond the simplistic replacement narrative dominating public discourse.
 
 The what-how framework offers remarkable clarity amid the confusing narratives surrounding AI. It helps explain why certain cognitive tasks are rapidly becoming commoditized while others remain stubbornly resistant to automation. More importantly, it provides a roadmap for individuals, organizations, and policymakers navigating a landscape where artificial intelligence increasingly pervades knowledge work.
 
-Until the arrival of generative AI, individuals gained professional advantages through superior "how" skills---they excelled at crafting compelling presentations, building complex spreadsheets, writing efficient code, or translating between languages. These implementation abilities represented valuable skills that could be developed and applied on behalf of those who determined *what* needed to be done.
+Until the arrival of generative AI\index{AI concepts!generative AI}, individuals gained professional advantages through superior "how" skills---they excelled at crafting compelling presentations, building complex spreadsheets, writing efficient code, or translating between languages. These implementation abilities represented valuable skills that could be developed and applied on behalf of those who determined *what* needed to be done.
 
-In traditional organizational hierarchies, executives and managers typically decide *what* initiatives to pursue, while specialized knowledge workers determine *how* to execute them. This division has historically functioned efficiently because *how* expertise---whether in financial modeling, software development, or content creation---required significant investment in learning specialized tools and methodologies.
+In traditional organizational hierarchies, executives and managers typically decide *what* initiatives to pursue, while specialized knowledge workers determine *how* to execute them. This division has historically functioned efficiently because *how* expertise---whether in financial modeling, software development, or content creation\index{content creation}---required significant investment in learning specialized tools and methodologies.
 
 The emergence of sophisticated AI systems fundamentally alters this equation. Large language models demonstrate remarkable proficiency in implementation tasks, often exceeding human capabilities in narrow domains. They can generate code, compose business communications, create visual assets, and perform complex analyses with minimal human guidance. These systems excel precisely in the domain of *how*---the execution of well-defined tasks within established parameters.
 
-What these systems cannot do---and what remains uniquely human---is determine *what* is worth doing in the first place. They cannot independently identify which problems merit attention, which strategies align with organizational values, or which approaches will resonate with stakeholders. They lack the contextual understanding, ethical framework, and strategic vision required to make these determinations.
+What these systems cannot do---and what remains uniquely human---is determine *what* is worth doing in the first place. They cannot independently identify which problems merit attention, which strategies align with organizational values, or which approaches will resonate with stakeholders. They lack the contextual understanding\index{human-AI relationship!contextual understanding}, ethical framework, and strategic vision required to make these determinations.
 
 As noted already, the financial analyst traditionally created value from technical modeling skills. As AI systems increasingly automate complex financial calculations, the analyst's competitive advantage shifts toward identifying which factors merit analysis, which comparisons yield strategic insights, and how findings translate into investment decisions. The technical implementation---the *how*---becomes commoditized, while judgment about *what* to analyze becomes the primary value driver.
 
-This pattern repeats across knowledge work domains. In marketing, AI can generate endless variations of campaign materials, but cannot determine which messaging will align with brand values and audience expectations. In software development, AI can produce functional code based on specifications but cannot identify which features will deliver genuine user value. In healthcare, AI can analyze diagnostic images with remarkable accuracy but cannot integrate these findings with the full context of patient well-being.
+This pattern repeats across knowledge work domains. In marketing\index{marketing}, AI can generate endless variations of campaign materials, but cannot determine which messaging will align with brand values and audience expectations. In software development, AI can produce functional code based on specifications but cannot identify which features will deliver genuine user value. In healthcare, AI can analyze diagnostic images with remarkable accuracy but cannot integrate these findings with the full context of patient well-being.
 
 ## Philosophical Dimensions of the Divide
 
-The what-how divide resonates with deeper philosophical questions about the nature of intelligence and agency. Martin Heidegger, whose work we explore more fully in Chapter 4, offers particularly relevant insights through his concept of "comportments"—the way humans face and engage with the world around them.
+The what-how divide resonates with deeper philosophical questions about the nature of intelligence and agency. Martin Heidegger\index{philosophy!Heidegger}, whose work we explore more fully in Chapter 4, offers particularly relevant insights through his concept of "comportments"—the way humans face and engage with the world around them.
 
-When we are deeply engaged in an activity—skillfully driving a car, playing an instrument, or writing code—we are not consciously thinking about the mechanics of these actions. Our focus extends beyond the immediate task to its purpose and meaning within our broader existence. The ultimate comportment, Heidegger suggests, is our orientation toward being itself, which encompasses our understanding of past, present, and future.
+When we are deeply engaged in an activity—skillfully driving a car, playing an instrument, or writing code—we are not consciously thinking about the mechanics of these actions. Our focus extends beyond the immediate task to its purpose and meaning within our broader existence. The ultimate comportment\index{philosophy!Heidegger!comportment}, Heidegger suggests, is our orientation toward being itself, which encompasses our understanding of past, present, and future.
 
 Artificial intelligence systems, even sophisticated ones like GPT-4 or Claude, lack these comportments. They process information without any inherent purpose or temporal orientation. They can mimic human-like outputs but have no concept of why these outputs matter or how they fit into broader human concerns. This philosophical distinction manifests practically in AI's inability to determine *what* is worth doing independent of human direction.
 
@@ -303,7 +303,7 @@ In media and marketing, AI systems now generate remarkably coherent and stylisti
 
 Marketing executives evaluating AI writing assistants frequently report that while these tools can "automatically compose email replies," users typically spend as much time editing these drafts as they would creating responses from scratch. The real value emerges when humans with deep customer knowledge direct these tools toward specific strategic objectives.
 
-This transformation extends beyond business communication to creative fields. As we explored with the AI-generated completion of Beethoven's unfinished tenth symphony, technical proficiency alone cannot replicate the ineffable quality that distinguishes truly meaningful creative work. As music critic Jan Swafford observed, "We humans need to see the human doing it." The value derives not just from the output itself but from knowing it represents authentic human struggle, insight, and purpose.
+This transformation extends beyond business communication to creative fields. As we explored with the AI-generated completion of Beethoven\index{Beethoven}'s unfinished tenth symphony, technical proficiency alone cannot replicate the ineffable quality that distinguishes truly meaningful creative work. As music critic Jan Swafford observed, "We humans need to see the human doing it." The value derives not just from the output itself but from knowing it represents authentic human struggle, insight, and purpose.
 
 ### Healthcare
 
@@ -319,7 +319,7 @@ The what-how framework carries significant implications for competitive strategy
 
 This dynamic particularly challenges organizations that have traditionally derived their advantage primarily from superior execution. When AI systems can implement strategies with comparable efficiency across competitors, the primary differentiator becomes the quality of strategic judgment guiding that implementation. Organizations must evolve their capabilities accordingly, developing institutional capacity for the complex judgments that remain resistant to automation.
 
-We see this pattern emerging in investment management, where quantitative analysis tools have become increasingly sophisticated and widely available. The differentiator for successful investment firms shifts toward superior judgment about which factors merit analysis, which market signals deserve attention, and how various considerations should be weighted in decision-making.
+We see this pattern emerging in investment management\index{investment management}, where quantitative analysis tools have become increasingly sophisticated and widely available. The differentiator for successful investment firms shifts toward superior judgment about which factors merit analysis, which market signals deserve attention, and how various considerations should be weighted in decision-making\index{AI concepts!decision-making}.
 
 Similarly, in management consulting, the technical aspects of data analysis and presentation—traditionally key components of the service offering—are increasingly automated. The value proposition shifts toward helping clients determine which problems deserve attention, which approaches align with organizational values, and how various factors should be prioritized.
 
@@ -337,7 +337,7 @@ Second, workflow design should consciously separate strategic decisions from imp
 
 Effective workflow design requires careful consideration of where human judgment adds the most value. Rather than automating entire processes end-to-end, organizations should identify the critical decision points where human judgment remains essential and design workflows that explicitly incorporate this judgment while automating surrounding implementation steps.
 
-Third, organizational structures should evolve to emphasize roles that combine domain expertise with AI literacy. The traditional separation between business strategists and technical implementers becomes less valuable as AI systems increasingly bridge this gap. New hybrid roles will emerge that focus on translating business objectives into effective AI implementation approaches.
+Third, organizational structures should evolve to emphasize roles that combine domain expertise with AI literacy\index{implementation!AI literacy}. The traditional separation between business strategists and technical implementers becomes less valuable as AI systems increasingly bridge this gap. New hybrid roles will emerge that focus on translating business objectives into effective AI implementation approaches.
 
 This structural evolution may require reconsidering traditional career paths and reporting relationships. Organizations that maintain rigid distinctions between technical and strategic roles may struggle to develop the integrated capabilities needed for effective human-AI collaboration.
 
